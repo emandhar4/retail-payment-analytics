@@ -1,0 +1,201 @@
+product_id,category,unit_price,merchant
+P0001,Electronics,9.43,ShopMart
+P0002,Electronics,12.25,TrendShop
+P0003,Home & Garden,6.44,PrimeMart
+P0004,Beauty,14.12,RetailCo
+P0005,Home & Garden,1.99,MegaStore
+P0006,Automotive,22.91,RetailCo
+P0007,Automotive,17.44,RetailCo
+P0008,Home & Garden,39.69,UrbanSelect
+P0009,Home & Garden,34.94,PrimeMart
+P0010,Beauty,149.68,DailyDeals
+P0011,Apparel,744.84,UrbanSelect
+P0012,Food & Beverage,129.68,RetailCo
+P0013,Books,19.23,ShopMart
+P0014,Automotive,18.32,MegaStore
+P0015,Food & Beverage,93.92,RetailCo
+P0016,Home & Garden,4.39,QuickBuy
+P0017,Beauty,22.69,PrimeMart
+P0018,Sports,24.88,PrimeMart
+P0019,Beauty,66.75,PrimeMart
+P0020,Toys,69.18,TrendShop
+P0021,Toys,13.55,TrendShop
+P0022,Food & Beverage,20.14,ValuePlus
+P0023,Electronics,56.49,CityGoods
+P0024,Toys,12.7,MegaStore
+P0025,Toys,140.8,UrbanSelect
+P0026,Apparel,68.79,DailyDeals
+P0027,Sports,40.68,RetailCo
+P0028,Apparel,52.94,CityGoods
+P0029,Sports,18.91,DailyDeals
+P0030,Health,15.62,UrbanSelect
+P0031,Books,19.89,CityGoods
+P0032,Automotive,60.34,DailyDeals
+P0033,Toys,42.15,ShopMart
+P0034,Automotive,19.94,TrendShop
+P0035,Toys,81.41,UrbanSelect
+P0036,Apparel,26.88,MegaStore
+P0037,Books,14.41,QuickBuy
+P0038,Apparel,44.93,ShopMart
+P0039,Apparel,9.82,TrendShop
+P0040,Sports,4.37,PrimeMart
+P0041,Electronics,32.91,TrendShop
+P0042,Beauty,15.05,CityGoods
+P0043,Food & Beverage,24.41,ValuePlus
+P0044,Automotive,10.38,ShopMart
+P0045,Health,141.28,PrimeMart
+P0046,Toys,14.97,CityGoods
+P0047,Apparel,19.72,UrbanSelect
+P0048,Electronics,52.12,MegaStore
+P0049,Apparel,6.35,TrendShop
+P0050,Books,5.81,UrbanSelect
+P0051,Sports,52.31,PrimeMart
+P0052,Health,19.42,CityGoods
+P0053,Beauty,11.23,ValuePlus
+P0054,Books,68.31,TrendShop
+P0055,Home & Garden,12.5,MegaStore
+P0056,Health,23.82,ValuePlus
+P0057,Apparel,11.3,DailyDeals
+P0058,Books,47.66,CityGoods
+P0059,Beauty,163.77,UrbanSelect
+P0060,Electronics,3.55,TrendShop
+P0061,Electronics,37.91,TrendShop
+P0062,Automotive,92.56,PrimeMart
+P0063,Beauty,19.97,MegaStore
+P0064,Electronics,8.52,QuickBuy
+P0065,Books,54.88,DailyDeals
+P0066,Automotive,110.17,ValuePlus
+P0067,Electronics,96.41,ShopMart
+P0068,Health,51.37,ShopMart
+P0069,Sports,37.24,TrendShop
+P0070,Home & Garden,11.26,PrimeMart
+P0071,Beauty,93.53,RetailCo
+P0072,Books,87.53,TrendShop
+P0073,Toys,8.45,ShopMart
+P0074,Apparel,51.28,ShopMart
+P0075,Books,72.49,DailyDeals
+P0076,Electronics,95.44,UrbanSelect
+P0077,Books,30.27,RetailCo
+P0078,Toys,11.83,TrendShop
+P0079,Apparel,18.13,DailyDeals
+P0080,Automotive,9.89,PrimeMart
+P0081,Electronics,31.15,DailyDeals
+P0082,Food & Beverage,24.62,TrendShop
+P0083,Electronics,434.43,CityGoods
+P0084,Home & Garden,96.89,QuickBuy
+P0085,Food & Beverage,106.0,TrendShop
+P0086,Home & Garden,58.3,MegaStore
+P0087,Toys,21.31,ShopMart
+P0088,Beauty,23.8,RetailCo
+P0089,Apparel,26.56,RetailCo
+P0090,Sports,41.51,UrbanSelect
+P0091,Automotive,52.83,QuickBuy
+P0092,Sports,33.14,MegaStore
+P0093,Health,23.37,ShopMart
+P0094,Health,16.23,RetailCo
+P0095,Toys,6.23,MegaStore
+P0096,Beauty,154.48,DailyDeals
+P0097,Health,467.14,UrbanSelect
+P0098,Electronics,139.66,TrendShop
+P0099,Books,7.31,TrendShop
+P0100,Home & Garden,85.15,CityGoods
+P0101,Health,113.13,ShopMart
+P0102,Toys,20.41,MegaStore
+P0103,Home & Garden,59.54,ValuePlus
+P0104,Electronics,19.15,RetailCo
+P0105,Beauty,207.41,PrimeMart
+P0106,Apparel,51.34,PrimeMart
+P0107,Sports,11.02,TrendShop
+P0108,Electronics,73.98,ValuePlus
+P0109,Automotive,117.98,PrimeMart
+P0110,Food & Beverage,42.0,QuickBuy
+P0111,Toys,58.87,QuickBuy
+P0112,Sports,30.46,ShopMart
+P0113,Automotive,8.49,ValuePlus
+P0114,Apparel,27.6,QuickBuy
+P0115,Automotive,62.03,QuickBuy
+P0116,Beauty,28.4,TrendShop
+P0117,Food & Beverage,86.57,PrimeMart
+P0118,Home & Garden,20.68,ShopMart
+P0119,Sports,22.38,MegaStore
+P0120,Food & Beverage,89.78,DailyDeals
+P0121,Books,43.22,RetailCo
+P0122,Electronics,20.21,RetailCo
+P0123,Books,114.5,UrbanSelect
+P0124,Electronics,14.49,DailyDeals
+P0125,Beauty,13.84,DailyDeals
+P0126,Food & Beverage,1.99,RetailCo
+P0127,Apparel,17.03,RetailCo
+P0128,Health,159.25,MegaStore
+P0129,Automotive,2.75,ValuePlus
+P0130,Health,10.57,ValuePlus
+P0131,Food & Beverage,56.09,MegaStore
+P0132,Books,2.24,PrimeMart
+P0133,Health,17.94,DailyDeals
+P0134,Toys,130.2,CityGoods
+P0135,Health,384.38,DailyDeals
+P0136,Electronics,46.91,UrbanSelect
+P0137,Toys,10.89,RetailCo
+P0138,Sports,10.46,DailyDeals
+P0139,Health,39.4,RetailCo
+P0140,Toys,46.39,DailyDeals
+P0141,Food & Beverage,307.82,UrbanSelect
+P0142,Automotive,106.16,PrimeMart
+P0143,Sports,36.63,CityGoods
+P0144,Apparel,22.15,QuickBuy
+P0145,Apparel,999.99,MegaStore
+P0146,Beauty,70.24,MegaStore
+P0147,Health,14.84,CityGoods
+P0148,Automotive,25.29,DailyDeals
+P0149,Home & Garden,11.55,QuickBuy
+P0150,Toys,1.99,UrbanSelect
+P0151,Sports,48.19,ValuePlus
+P0152,Food & Beverage,281.17,DailyDeals
+P0153,Health,4.68,PrimeMart
+P0154,Food & Beverage,35.39,RetailCo
+P0155,Home & Garden,14.18,ShopMart
+P0156,Beauty,61.92,DailyDeals
+P0157,Home & Garden,26.93,ShopMart
+P0158,Electronics,6.47,DailyDeals
+P0159,Books,10.2,CityGoods
+P0160,Sports,12.23,ShopMart
+P0161,Books,166.2,DailyDeals
+P0162,Home & Garden,156.32,MegaStore
+P0163,Beauty,22.79,ShopMart
+P0164,Beauty,144.51,DailyDeals
+P0165,Apparel,26.9,ValuePlus
+P0166,Health,22.38,RetailCo
+P0167,Apparel,35.46,ValuePlus
+P0168,Sports,46.61,QuickBuy
+P0169,Sports,17.0,DailyDeals
+P0170,Sports,34.0,TrendShop
+P0171,Food & Beverage,85.18,PrimeMart
+P0172,Apparel,38.68,ValuePlus
+P0173,Food & Beverage,34.86,ShopMart
+P0174,Books,59.92,CityGoods
+P0175,Health,73.7,PrimeMart
+P0176,Home & Garden,30.72,TrendShop
+P0177,Toys,18.75,UrbanSelect
+P0178,Apparel,41.56,DailyDeals
+P0179,Toys,4.89,CityGoods
+P0180,Beauty,25.73,DailyDeals
+P0181,Apparel,1.99,QuickBuy
+P0182,Books,4.43,TrendShop
+P0183,Apparel,3.7,DailyDeals
+P0184,Food & Beverage,116.38,ShopMart
+P0185,Health,33.68,QuickBuy
+P0186,Home & Garden,7.28,MegaStore
+P0187,Automotive,59.7,UrbanSelect
+P0188,Home & Garden,108.46,TrendShop
+P0189,Home & Garden,60.96,RetailCo
+P0190,Beauty,26.4,CityGoods
+P0191,Books,43.77,ValuePlus
+P0192,Toys,97.69,DailyDeals
+P0193,Books,18.86,CityGoods
+P0194,Automotive,34.32,CityGoods
+P0195,Beauty,24.32,RetailCo
+P0196,Health,4.78,RetailCo
+P0197,Home & Garden,99.47,QuickBuy
+P0198,Food & Beverage,391.01,TrendShop
+P0199,Beauty,11.61,ShopMart
+P0200,Sports,105.13,UrbanSelect

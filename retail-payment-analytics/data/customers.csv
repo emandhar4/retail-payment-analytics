@@ -1,0 +1,3001 @@
+customer_id,country,customer_tier,join_date
+C00001,United States,Bronze,2022-11-24
+C00002,Mexico,Bronze,2022-02-27
+C00003,Germany,Silver,2022-01-13
+C00004,United Kingdom,Bronze,2022-05-21
+C00005,United States,Bronze,2022-05-06
+C00006,United States,Bronze,2022-04-25
+C00007,United States,Bronze,2022-03-13
+C00008,Australia,Gold,2022-02-22
+C00009,Canada,Bronze,2022-12-13
+C00010,Germany,Gold,2022-10-07
+C00011,United States,Bronze,2022-02-14
+C00012,Mexico,Silver,2022-10-30
+C00013,Australia,Silver,2022-08-05
+C00014,United States,Silver,2022-01-17
+C00015,United States,Bronze,2022-01-16
+C00016,United States,Silver,2022-02-17
+C00017,United States,Bronze,2022-04-22
+C00018,United Kingdom,Silver,2022-04-30
+C00019,United States,Gold,2022-09-16
+C00020,United States,Bronze,2022-11-05
+C00021,Canada,Silver,2022-01-14
+C00022,United States,Silver,2022-10-15
+C00023,United States,Bronze,2022-04-12
+C00024,United States,Silver,2022-11-29
+C00025,United Kingdom,Gold,2022-12-26
+C00026,France,Silver,2022-10-07
+C00027,United States,Bronze,2022-08-03
+C00028,United Kingdom,Bronze,2022-04-23
+C00029,United Kingdom,Bronze,2022-08-18
+C00030,United States,Bronze,2022-10-29
+C00031,Canada,Silver,2022-05-23
+C00032,United States,Silver,2022-01-04
+C00033,United States,Bronze,2022-03-23
+C00034,Brazil,Gold,2022-12-24
+C00035,Mexico,Silver,2022-08-05
+C00036,France,Silver,2022-06-24
+C00037,United States,Silver,2022-05-23
+C00038,United States,Bronze,2022-03-21
+C00039,Canada,Gold,2022-04-21
+C00040,United States,Bronze,2022-06-22
+C00041,United States,Silver,2022-02-22
+C00042,United Kingdom,Bronze,2022-02-17
+C00043,United States,Gold,2022-07-14
+C00044,Japan,Silver,2022-02-19
+C00045,United States,Bronze,2022-07-03
+C00046,Canada,Bronze,2022-06-26
+C00047,United States,Silver,2022-11-06
+C00048,United Kingdom,Silver,2022-05-16
+C00049,United Kingdom,Silver,2022-01-23
+C00050,United States,Silver,2022-08-24
+C00051,Mexico,Silver,2022-10-02
+C00052,France,Silver,2022-03-05
+C00053,Brazil,Silver,2022-07-13
+C00054,Japan,Silver,2022-02-10
+C00055,United Kingdom,Bronze,2022-10-10
+C00056,Brazil,Bronze,2022-05-31
+C00057,United States,Bronze,2022-11-18
+C00058,United States,Gold,2022-11-13
+C00059,United States,Gold,2022-07-05
+C00060,United States,Bronze,2022-10-23
+C00061,United States,Silver,2022-04-09
+C00062,United States,Gold,2022-12-27
+C00063,France,Bronze,2022-02-05
+C00064,United States,Bronze,2022-01-24
+C00065,United States,Bronze,2022-12-05
+C00066,United Kingdom,Silver,2022-04-27
+C00067,United States,Gold,2022-05-29
+C00068,France,Bronze,2022-02-10
+C00069,United States,Silver,2022-04-30
+C00070,Spain,Bronze,2022-02-21
+C00071,France,Bronze,2022-07-14
+C00072,United States,Bronze,2022-05-23
+C00073,United States,Silver,2022-08-21
+C00074,France,Silver,2022-11-22
+C00075,Germany,Bronze,2022-07-06
+C00076,Germany,Bronze,2022-03-25
+C00077,France,Bronze,2022-07-09
+C00078,United States,Gold,2022-07-01
+C00079,United States,Silver,2022-04-18
+C00080,United States,Bronze,2022-12-10
+C00081,Australia,Bronze,2022-05-17
+C00082,Canada,Bronze,2022-12-26
+C00083,United States,Silver,2022-12-16
+C00084,United States,Bronze,2022-11-28
+C00085,United States,Bronze,2022-02-06
+C00086,United States,Bronze,2022-11-08
+C00087,Germany,Silver,2022-11-22
+C00088,Canada,Gold,2022-03-29
+C00089,Japan,Bronze,2022-10-01
+C00090,United Kingdom,Silver,2022-05-06
+C00091,United States,Silver,2022-03-25
+C00092,Germany,Bronze,2022-08-25
+C00093,Germany,Silver,2022-07-14
+C00094,United Kingdom,Bronze,2022-05-19
+C00095,France,Silver,2022-11-24
+C00096,United Kingdom,Bronze,2022-12-19
+C00097,United Kingdom,Bronze,2022-10-13
+C00098,United States,Gold,2022-04-23
+C00099,United States,Gold,2022-12-17
+C00100,United States,Silver,2022-06-16
+C00101,United States,Gold,2022-01-29
+C00102,Canada,Bronze,2022-04-28
+C00103,United States,Bronze,2022-01-17
+C00104,United Kingdom,Silver,2022-06-11
+C00105,Japan,Silver,2022-07-25
+C00106,United States,Silver,2022-05-18
+C00107,United States,Bronze,2022-02-03
+C00108,Germany,Gold,2022-04-19
+C00109,United States,Bronze,2022-10-18
+C00110,United States,Bronze,2022-06-11
+C00111,United States,Bronze,2022-04-19
+C00112,United States,Silver,2022-12-02
+C00113,Brazil,Bronze,2022-09-13
+C00114,France,Gold,2022-07-22
+C00115,Canada,Silver,2022-11-26
+C00116,Australia,Bronze,2022-08-23
+C00117,France,Bronze,2022-03-15
+C00118,United States,Gold,2022-05-16
+C00119,Japan,Silver,2022-03-13
+C00120,United Kingdom,Silver,2022-05-07
+C00121,France,Silver,2022-10-15
+C00122,Japan,Silver,2022-10-03
+C00123,United States,Gold,2022-05-15
+C00124,United States,Silver,2022-10-27
+C00125,United States,Bronze,2022-08-08
+C00126,United States,Bronze,2022-10-26
+C00127,France,Bronze,2022-07-24
+C00128,Australia,Gold,2022-07-05
+C00129,United States,Bronze,2022-04-23
+C00130,United Kingdom,Bronze,2022-03-12
+C00131,United States,Bronze,2022-09-18
+C00132,United States,Bronze,2022-09-10
+C00133,United States,Bronze,2022-02-16
+C00134,United States,Bronze,2022-01-25
+C00135,Brazil,Silver,2022-02-26
+C00136,United States,Bronze,2022-03-20
+C00137,United Kingdom,Bronze,2022-11-18
+C00138,Germany,Bronze,2022-03-23
+C00139,United States,Bronze,2022-12-15
+C00140,Mexico,Gold,2022-08-05
+C00141,Mexico,Silver,2022-11-02
+C00142,United States,Bronze,2022-02-02
+C00143,United Kingdom,Bronze,2022-07-17
+C00144,United States,Bronze,2022-07-15
+C00145,United States,Silver,2022-11-02
+C00146,United States,Silver,2022-08-28
+C00147,Canada,Bronze,2022-09-28
+C00148,United Kingdom,Bronze,2022-05-09
+C00149,United States,Bronze,2022-10-11
+C00150,United States,Silver,2022-01-06
+C00151,Japan,Bronze,2022-12-15
+C00152,United States,Silver,2022-02-28
+C00153,United States,Bronze,2022-12-16
+C00154,United Kingdom,Silver,2022-10-02
+C00155,Spain,Silver,2022-05-17
+C00156,United States,Bronze,2022-11-25
+C00157,Canada,Bronze,2022-06-24
+C00158,Germany,Gold,2022-02-27
+C00159,United States,Bronze,2022-05-31
+C00160,Germany,Silver,2022-08-11
+C00161,United States,Silver,2022-03-22
+C00162,Canada,Gold,2022-08-21
+C00163,Canada,Silver,2022-01-02
+C00164,United Kingdom,Bronze,2022-05-15
+C00165,United States,Gold,2022-09-14
+C00166,Australia,Silver,2022-04-02
+C00167,United States,Bronze,2022-09-17
+C00168,United States,Gold,2022-02-24
+C00169,United States,Bronze,2022-11-17
+C00170,United Kingdom,Silver,2022-06-02
+C00171,Canada,Bronze,2022-11-24
+C00172,United States,Silver,2022-09-17
+C00173,United Kingdom,Silver,2022-11-08
+C00174,United States,Silver,2022-04-12
+C00175,Canada,Gold,2022-03-20
+C00176,United States,Silver,2022-07-11
+C00177,Canada,Bronze,2022-03-24
+C00178,United States,Bronze,2022-10-04
+C00179,Brazil,Bronze,2022-09-29
+C00180,United States,Bronze,2022-01-01
+C00181,United States,Gold,2022-11-03
+C00182,United States,Silver,2022-06-15
+C00183,Brazil,Silver,2022-09-08
+C00184,Australia,Silver,2022-01-10
+C00185,United States,Bronze,2022-02-27
+C00186,Canada,Bronze,2022-07-05
+C00187,France,Silver,2022-06-07
+C00188,United Kingdom,Silver,2022-05-03
+C00189,United Kingdom,Bronze,2022-01-30
+C00190,United States,Bronze,2022-05-04
+C00191,United States,Silver,2022-10-18
+C00192,Japan,Bronze,2022-02-10
+C00193,Japan,Bronze,2022-02-13
+C00194,Canada,Silver,2022-09-06
+C00195,United States,Silver,2022-02-05
+C00196,United States,Bronze,2022-09-30
+C00197,Germany,Bronze,2022-03-06
+C00198,Japan,Bronze,2022-03-07
+C00199,Japan,Gold,2022-12-04
+C00200,France,Silver,2022-09-01
+C00201,Canada,Bronze,2022-10-09
+C00202,United States,Bronze,2022-03-26
+C00203,United States,Silver,2022-05-16
+C00204,Japan,Bronze,2022-09-28
+C00205,Canada,Bronze,2022-11-07
+C00206,United States,Bronze,2022-08-05
+C00207,United States,Bronze,2022-04-19
+C00208,Canada,Bronze,2022-10-04
+C00209,United States,Silver,2022-12-20
+C00210,United States,Bronze,2022-04-13
+C00211,United Kingdom,Silver,2023-01-01
+C00212,Canada,Bronze,2022-06-09
+C00213,Canada,Silver,2022-07-24
+C00214,United States,Bronze,2022-12-10
+C00215,Germany,Silver,2022-11-29
+C00216,United States,Gold,2022-07-11
+C00217,United States,Silver,2022-08-13
+C00218,Germany,Gold,2022-09-22
+C00219,Canada,Bronze,2022-08-20
+C00220,Australia,Bronze,2022-03-03
+C00221,Canada,Bronze,2022-05-07
+C00222,United Kingdom,Silver,2022-04-26
+C00223,United States,Gold,2022-02-02
+C00224,United States,Gold,2022-06-23
+C00225,United States,Silver,2022-01-11
+C00226,United States,Bronze,2022-10-29
+C00227,Mexico,Silver,2022-10-11
+C00228,United States,Silver,2022-04-28
+C00229,Japan,Gold,2022-10-29
+C00230,Canada,Silver,2022-04-23
+C00231,France,Bronze,2022-01-04
+C00232,United Kingdom,Bronze,2022-02-06
+C00233,United Kingdom,Silver,2022-12-29
+C00234,United Kingdom,Gold,2022-11-20
+C00235,United States,Silver,2022-01-31
+C00236,Germany,Silver,2022-04-28
+C00237,United States,Silver,2022-02-04
+C00238,United States,Bronze,2022-01-17
+C00239,Canada,Bronze,2022-06-19
+C00240,United States,Bronze,2022-02-06
+C00241,Brazil,Silver,2022-09-21
+C00242,Mexico,Silver,2022-05-02
+C00243,Japan,Bronze,2022-05-23
+C00244,United States,Bronze,2022-12-09
+C00245,United States,Bronze,2022-09-06
+C00246,Brazil,Silver,2022-04-20
+C00247,United States,Bronze,2022-10-04
+C00248,Mexico,Silver,2022-03-09
+C00249,Mexico,Bronze,2022-10-20
+C00250,Australia,Bronze,2022-10-23
+C00251,United States,Bronze,2022-08-31
+C00252,United States,Gold,2022-05-05
+C00253,Australia,Bronze,2022-08-31
+C00254,United States,Gold,2022-07-28
+C00255,United States,Silver,2022-04-08
+C00256,United Kingdom,Gold,2022-02-18
+C00257,Brazil,Bronze,2022-02-19
+C00258,Canada,Silver,2022-12-04
+C00259,United Kingdom,Silver,2022-08-09
+C00260,United States,Bronze,2022-07-01
+C00261,Canada,Silver,2022-08-05
+C00262,Spain,Bronze,2022-07-30
+C00263,United States,Silver,2022-08-28
+C00264,United Kingdom,Gold,2022-01-28
+C00265,Australia,Bronze,2022-12-11
+C00266,Germany,Gold,2022-12-01
+C00267,Canada,Silver,2022-11-27
+C00268,Germany,Bronze,2022-02-20
+C00269,United States,Bronze,2022-02-01
+C00270,United States,Bronze,2022-07-26
+C00271,France,Silver,2022-06-23
+C00272,France,Gold,2022-02-25
+C00273,Australia,Bronze,2022-05-08
+C00274,Japan,Bronze,2022-04-09
+C00275,United Kingdom,Bronze,2022-04-08
+C00276,United Kingdom,Bronze,2022-10-02
+C00277,France,Bronze,2022-08-18
+C00278,Canada,Silver,2022-03-13
+C00279,Germany,Silver,2022-08-05
+C00280,France,Bronze,2022-04-04
+C00281,Japan,Silver,2022-05-23
+C00282,United States,Silver,2022-08-25
+C00283,United States,Bronze,2022-05-08
+C00284,United States,Bronze,2022-02-08
+C00285,United Kingdom,Silver,2022-08-15
+C00286,United States,Gold,2022-10-09
+C00287,United Kingdom,Silver,2022-02-20
+C00288,United Kingdom,Bronze,2022-01-26
+C00289,United States,Bronze,2022-11-30
+C00290,United Kingdom,Silver,2022-10-04
+C00291,United States,Gold,2022-01-08
+C00292,United States,Bronze,2022-02-17
+C00293,France,Silver,2022-05-02
+C00294,United States,Bronze,2022-03-27
+C00295,United States,Bronze,2022-07-28
+C00296,United Kingdom,Gold,2022-09-06
+C00297,Germany,Bronze,2022-09-04
+C00298,United States,Gold,2022-04-20
+C00299,Canada,Silver,2022-07-25
+C00300,United States,Bronze,2022-01-31
+C00301,United States,Silver,2022-03-26
+C00302,United Kingdom,Bronze,2022-07-14
+C00303,United Kingdom,Bronze,2022-01-02
+C00304,Canada,Silver,2022-07-19
+C00305,Germany,Silver,2022-05-16
+C00306,Mexico,Silver,2022-08-21
+C00307,United Kingdom,Silver,2022-05-27
+C00308,United States,Gold,2022-08-05
+C00309,France,Silver,2022-12-23
+C00310,United States,Silver,2022-10-12
+C00311,United States,Bronze,2022-12-05
+C00312,United States,Bronze,2022-09-07
+C00313,United States,Bronze,2022-03-21
+C00314,Mexico,Gold,2022-04-08
+C00315,Australia,Silver,2022-06-01
+C00316,Canada,Bronze,2022-04-22
+C00317,United States,Silver,2022-01-30
+C00318,United States,Gold,2022-10-24
+C00319,United States,Bronze,2022-10-05
+C00320,United States,Bronze,2022-02-01
+C00321,United Kingdom,Bronze,2022-06-10
+C00322,Germany,Gold,2022-01-30
+C00323,Canada,Bronze,2022-01-26
+C00324,United States,Bronze,2022-10-27
+C00325,Mexico,Bronze,2022-09-02
+C00326,Germany,Bronze,2022-09-15
+C00327,United Kingdom,Bronze,2022-09-29
+C00328,Canada,Bronze,2022-03-22
+C00329,United States,Gold,2022-01-30
+C00330,United States,Bronze,2022-09-18
+C00331,United States,Bronze,2022-02-11
+C00332,Germany,Bronze,2022-04-06
+C00333,United States,Silver,2022-02-05
+C00334,United States,Silver,2022-11-01
+C00335,United States,Bronze,2022-02-04
+C00336,United States,Bronze,2022-12-12
+C00337,Australia,Bronze,2022-05-01
+C00338,Germany,Bronze,2022-07-26
+C00339,United Kingdom,Bronze,2022-03-03
+C00340,United States,Bronze,2022-10-19
+C00341,United Kingdom,Bronze,2022-05-07
+C00342,United Kingdom,Bronze,2022-10-24
+C00343,United States,Bronze,2022-11-01
+C00344,United States,Silver,2022-01-21
+C00345,United States,Silver,2022-11-14
+C00346,Canada,Bronze,2022-02-11
+C00347,Canada,Silver,2022-08-03
+C00348,United States,Silver,2022-12-03
+C00349,United States,Silver,2022-10-26
+C00350,Canada,Silver,2022-10-17
+C00351,United Kingdom,Silver,2022-09-25
+C00352,Australia,Silver,2022-06-11
+C00353,Canada,Bronze,2022-05-14
+C00354,United States,Bronze,2022-04-15
+C00355,United States,Silver,2022-12-09
+C00356,Canada,Gold,2022-06-10
+C00357,United States,Bronze,2022-05-03
+C00358,United Kingdom,Silver,2022-05-16
+C00359,Brazil,Bronze,2022-07-22
+C00360,United Kingdom,Bronze,2022-03-09
+C00361,United States,Bronze,2022-12-10
+C00362,Canada,Silver,2022-11-27
+C00363,United Kingdom,Bronze,2022-06-03
+C00364,United Kingdom,Silver,2022-08-23
+C00365,Brazil,Bronze,2022-06-11
+C00366,United States,Bronze,2022-02-07
+C00367,Mexico,Silver,2022-01-05
+C00368,Japan,Silver,2022-08-23
+C00369,United States,Silver,2022-11-15
+C00370,United States,Bronze,2022-10-16
+C00371,United States,Silver,2022-02-21
+C00372,United States,Bronze,2022-02-07
+C00373,United States,Silver,2022-10-03
+C00374,Canada,Bronze,2022-04-20
+C00375,United States,Bronze,2022-09-17
+C00376,United States,Bronze,2022-05-16
+C00377,Australia,Bronze,2022-03-09
+C00378,United States,Silver,2022-06-28
+C00379,France,Gold,2022-02-05
+C00380,United States,Bronze,2022-05-06
+C00381,United States,Silver,2022-07-09
+C00382,Canada,Silver,2022-05-26
+C00383,Canada,Gold,2022-03-22
+C00384,Australia,Silver,2022-08-13
+C00385,Germany,Gold,2022-10-06
+C00386,France,Bronze,2022-12-27
+C00387,United States,Silver,2022-06-04
+C00388,United States,Bronze,2022-11-10
+C00389,Germany,Gold,2022-12-01
+C00390,France,Bronze,2022-09-28
+C00391,Spain,Silver,2022-01-05
+C00392,United States,Bronze,2022-12-08
+C00393,United States,Bronze,2022-10-11
+C00394,France,Silver,2022-06-03
+C00395,United States,Bronze,2022-12-06
+C00396,Brazil,Bronze,2022-02-23
+C00397,Australia,Bronze,2022-03-10
+C00398,United States,Bronze,2022-05-16
+C00399,Germany,Silver,2022-03-01
+C00400,Germany,Bronze,2022-02-24
+C00401,United States,Gold,2022-10-11
+C00402,Japan,Gold,2022-03-21
+C00403,United Kingdom,Bronze,2022-05-20
+C00404,France,Silver,2022-05-25
+C00405,United States,Bronze,2022-11-06
+C00406,Japan,Bronze,2022-04-18
+C00407,United States,Bronze,2022-06-25
+C00408,United States,Bronze,2022-04-15
+C00409,Japan,Silver,2022-12-18
+C00410,United States,Gold,2022-11-21
+C00411,United States,Silver,2022-05-16
+C00412,Mexico,Gold,2022-09-16
+C00413,Mexico,Gold,2022-09-08
+C00414,United Kingdom,Silver,2022-05-09
+C00415,Canada,Bronze,2022-01-27
+C00416,United States,Bronze,2022-02-17
+C00417,United States,Silver,2022-11-21
+C00418,United States,Bronze,2022-08-05
+C00419,Canada,Silver,2022-05-22
+C00420,Germany,Gold,2022-01-23
+C00421,France,Bronze,2022-01-02
+C00422,France,Bronze,2022-06-20
+C00423,United States,Bronze,2022-03-08
+C00424,United Kingdom,Gold,2022-11-23
+C00425,United States,Bronze,2022-05-15
+C00426,United Kingdom,Bronze,2022-03-24
+C00427,United States,Bronze,2022-08-15
+C00428,Japan,Bronze,2022-10-10
+C00429,United States,Bronze,2022-12-28
+C00430,United States,Bronze,2022-08-07
+C00431,United States,Bronze,2022-10-15
+C00432,Germany,Bronze,2022-01-05
+C00433,Canada,Bronze,2022-02-27
+C00434,United States,Silver,2022-02-08
+C00435,United States,Bronze,2022-12-20
+C00436,Germany,Silver,2022-03-18
+C00437,United States,Silver,2022-10-07
+C00438,France,Bronze,2022-01-19
+C00439,Germany,Bronze,2022-07-09
+C00440,United States,Bronze,2022-10-26
+C00441,United States,Silver,2022-10-10
+C00442,Spain,Bronze,2022-03-17
+C00443,United States,Silver,2022-08-09
+C00444,United States,Bronze,2022-03-07
+C00445,France,Bronze,2022-01-22
+C00446,Brazil,Bronze,2022-06-07
+C00447,Spain,Bronze,2022-07-06
+C00448,Germany,Bronze,2022-01-21
+C00449,United States,Bronze,2022-07-03
+C00450,United States,Gold,2022-04-18
+C00451,France,Silver,2022-12-16
+C00452,United Kingdom,Bronze,2022-05-08
+C00453,United States,Bronze,2022-12-08
+C00454,Japan,Silver,2022-02-22
+C00455,United States,Bronze,2022-07-01
+C00456,United Kingdom,Silver,2022-10-14
+C00457,United States,Bronze,2022-07-28
+C00458,United Kingdom,Bronze,2022-11-14
+C00459,United States,Bronze,2022-03-21
+C00460,United States,Bronze,2022-05-02
+C00461,United States,Silver,2022-03-25
+C00462,Canada,Silver,2022-04-01
+C00463,Germany,Bronze,2022-07-31
+C00464,United Kingdom,Bronze,2022-01-13
+C00465,Mexico,Silver,2022-04-02
+C00466,United States,Bronze,2022-06-20
+C00467,United States,Silver,2022-07-30
+C00468,Australia,Bronze,2022-12-09
+C00469,United States,Bronze,2022-05-08
+C00470,Mexico,Silver,2022-05-17
+C00471,United States,Gold,2022-03-23
+C00472,Mexico,Bronze,2022-12-26
+C00473,United States,Bronze,2022-02-25
+C00474,Japan,Bronze,2022-07-15
+C00475,United Kingdom,Bronze,2022-01-20
+C00476,Spain,Bronze,2022-08-29
+C00477,United States,Bronze,2022-04-24
+C00478,United Kingdom,Bronze,2022-04-13
+C00479,Mexico,Silver,2022-08-24
+C00480,United Kingdom,Silver,2022-06-29
+C00481,Canada,Silver,2022-06-06
+C00482,Canada,Bronze,2022-04-27
+C00483,United Kingdom,Silver,2022-04-25
+C00484,Canada,Bronze,2022-01-13
+C00485,United Kingdom,Bronze,2022-12-04
+C00486,Japan,Bronze,2022-04-09
+C00487,United States,Silver,2022-07-24
+C00488,United States,Gold,2022-06-18
+C00489,Mexico,Gold,2022-05-23
+C00490,Japan,Silver,2022-02-05
+C00491,United Kingdom,Gold,2022-05-23
+C00492,Canada,Bronze,2022-06-29
+C00493,United States,Bronze,2022-11-25
+C00494,United States,Bronze,2022-09-18
+C00495,United Kingdom,Bronze,2022-07-24
+C00496,United States,Silver,2022-12-14
+C00497,United Kingdom,Bronze,2022-10-02
+C00498,United States,Bronze,2022-06-19
+C00499,Mexico,Silver,2022-01-15
+C00500,Spain,Bronze,2022-03-01
+C00501,Canada,Silver,2022-05-14
+C00502,United Kingdom,Bronze,2022-04-02
+C00503,United States,Bronze,2022-10-25
+C00504,France,Gold,2022-05-16
+C00505,Canada,Bronze,2022-01-20
+C00506,United States,Bronze,2022-02-25
+C00507,Japan,Bronze,2022-11-02
+C00508,France,Silver,2022-08-11
+C00509,Brazil,Bronze,2022-06-26
+C00510,Germany,Gold,2022-06-10
+C00511,Canada,Silver,2022-08-12
+C00512,United States,Gold,2022-11-07
+C00513,Brazil,Bronze,2022-09-19
+C00514,Australia,Bronze,2022-03-01
+C00515,United States,Bronze,2022-07-17
+C00516,United States,Bronze,2022-10-23
+C00517,United States,Gold,2022-04-08
+C00518,France,Silver,2022-05-11
+C00519,Spain,Gold,2022-01-23
+C00520,United States,Silver,2022-12-29
+C00521,United Kingdom,Silver,2022-08-12
+C00522,United States,Silver,2022-01-01
+C00523,Mexico,Silver,2022-09-24
+C00524,Australia,Gold,2022-10-03
+C00525,Australia,Silver,2022-12-18
+C00526,United Kingdom,Gold,2022-12-10
+C00527,United States,Bronze,2022-04-11
+C00528,United States,Bronze,2022-07-06
+C00529,United States,Bronze,2022-08-09
+C00530,Australia,Silver,2022-02-05
+C00531,France,Silver,2022-12-07
+C00532,Spain,Bronze,2022-06-19
+C00533,Spain,Silver,2022-11-16
+C00534,United Kingdom,Silver,2022-06-10
+C00535,Germany,Silver,2022-12-06
+C00536,Brazil,Gold,2022-03-05
+C00537,Australia,Silver,2022-06-03
+C00538,United States,Silver,2022-09-17
+C00539,United Kingdom,Bronze,2022-06-08
+C00540,United States,Gold,2022-12-08
+C00541,Mexico,Silver,2022-07-29
+C00542,Canada,Bronze,2022-06-17
+C00543,United States,Gold,2022-07-26
+C00544,Canada,Silver,2022-12-23
+C00545,Canada,Bronze,2022-06-01
+C00546,United States,Silver,2022-10-11
+C00547,United States,Gold,2022-03-07
+C00548,Canada,Silver,2022-04-09
+C00549,United Kingdom,Silver,2022-08-04
+C00550,France,Bronze,2022-12-07
+C00551,United Kingdom,Bronze,2022-07-14
+C00552,Australia,Gold,2022-12-13
+C00553,United Kingdom,Bronze,2022-03-31
+C00554,United Kingdom,Bronze,2022-11-12
+C00555,Australia,Gold,2022-10-19
+C00556,United States,Bronze,2022-06-04
+C00557,United States,Silver,2022-07-27
+C00558,United States,Silver,2022-10-08
+C00559,Germany,Gold,2022-01-01
+C00560,Canada,Silver,2022-06-05
+C00561,Germany,Silver,2022-05-27
+C00562,United States,Bronze,2022-04-18
+C00563,United States,Gold,2022-08-09
+C00564,United States,Silver,2022-10-24
+C00565,United States,Silver,2022-11-07
+C00566,United Kingdom,Bronze,2022-12-02
+C00567,United States,Bronze,2022-06-14
+C00568,United States,Bronze,2022-08-27
+C00569,Japan,Bronze,2022-08-15
+C00570,United States,Bronze,2022-08-15
+C00571,United Kingdom,Silver,2022-12-12
+C00572,France,Bronze,2022-04-20
+C00573,United States,Bronze,2022-09-19
+C00574,Canada,Bronze,2022-08-31
+C00575,Australia,Bronze,2022-03-28
+C00576,Brazil,Silver,2022-12-04
+C00577,United States,Silver,2022-02-13
+C00578,Brazil,Silver,2022-05-26
+C00579,United Kingdom,Bronze,2022-09-21
+C00580,United States,Silver,2022-12-06
+C00581,United Kingdom,Silver,2022-11-21
+C00582,Spain,Bronze,2022-11-14
+C00583,United Kingdom,Silver,2022-06-21
+C00584,United States,Bronze,2022-02-17
+C00585,Canada,Silver,2022-05-01
+C00586,United States,Silver,2022-12-11
+C00587,United States,Silver,2022-06-08
+C00588,United States,Bronze,2022-04-26
+C00589,United States,Gold,2022-04-12
+C00590,United States,Silver,2022-03-17
+C00591,United States,Bronze,2022-01-13
+C00592,Canada,Silver,2022-01-24
+C00593,United States,Bronze,2022-05-06
+C00594,United States,Bronze,2022-09-01
+C00595,Japan,Silver,2022-11-09
+C00596,United Kingdom,Bronze,2022-02-07
+C00597,Canada,Silver,2022-08-22
+C00598,United States,Bronze,2022-08-01
+C00599,United States,Silver,2022-11-19
+C00600,United States,Bronze,2022-10-22
+C00601,United States,Gold,2022-04-10
+C00602,United States,Bronze,2022-12-23
+C00603,United States,Silver,2022-07-16
+C00604,United States,Silver,2022-09-11
+C00605,United States,Silver,2022-07-24
+C00606,United Kingdom,Silver,2022-05-05
+C00607,United States,Bronze,2022-03-17
+C00608,United States,Silver,2022-12-02
+C00609,United Kingdom,Bronze,2022-12-19
+C00610,Canada,Bronze,2022-01-03
+C00611,United States,Bronze,2022-02-24
+C00612,France,Gold,2022-08-06
+C00613,Canada,Silver,2022-04-23
+C00614,United States,Bronze,2022-04-01
+C00615,Australia,Silver,2022-12-23
+C00616,Brazil,Gold,2022-09-23
+C00617,United States,Bronze,2022-08-26
+C00618,United States,Bronze,2022-01-26
+C00619,France,Bronze,2022-10-13
+C00620,Germany,Silver,2022-05-08
+C00621,United States,Bronze,2022-03-04
+C00622,United States,Silver,2022-08-22
+C00623,United States,Silver,2022-03-10
+C00624,United Kingdom,Bronze,2022-08-26
+C00625,Canada,Silver,2022-12-08
+C00626,United States,Silver,2022-09-29
+C00627,United Kingdom,Gold,2022-10-14
+C00628,Germany,Bronze,2022-11-01
+C00629,United States,Bronze,2022-06-12
+C00630,United States,Bronze,2022-08-15
+C00631,Germany,Bronze,2022-11-10
+C00632,Japan,Silver,2022-09-16
+C00633,United Kingdom,Silver,2022-08-07
+C00634,United Kingdom,Silver,2022-10-08
+C00635,United States,Gold,2022-08-17
+C00636,United States,Silver,2022-03-23
+C00637,United Kingdom,Bronze,2022-09-01
+C00638,United States,Gold,2022-08-19
+C00639,United States,Silver,2022-05-13
+C00640,United States,Silver,2022-05-07
+C00641,United States,Silver,2022-11-23
+C00642,United States,Bronze,2022-05-22
+C00643,United States,Silver,2022-09-24
+C00644,United States,Silver,2022-09-06
+C00645,United States,Bronze,2022-11-17
+C00646,Japan,Silver,2022-05-03
+C00647,United Kingdom,Silver,2022-05-21
+C00648,Canada,Silver,2022-08-14
+C00649,France,Bronze,2022-02-09
+C00650,United Kingdom,Bronze,2023-01-01
+C00651,United States,Bronze,2022-05-27
+C00652,United Kingdom,Silver,2022-05-01
+C00653,United Kingdom,Bronze,2022-05-20
+C00654,Germany,Silver,2022-06-21
+C00655,United States,Gold,2022-06-13
+C00656,United States,Silver,2022-10-04
+C00657,United States,Silver,2022-02-11
+C00658,United States,Bronze,2022-03-12
+C00659,Canada,Bronze,2022-03-19
+C00660,United Kingdom,Bronze,2022-04-29
+C00661,United States,Bronze,2022-07-16
+C00662,Spain,Bronze,2022-12-22
+C00663,Canada,Gold,2022-03-20
+C00664,United States,Gold,2022-12-28
+C00665,United States,Bronze,2022-04-20
+C00666,United States,Silver,2022-02-02
+C00667,United States,Bronze,2022-08-01
+C00668,United States,Silver,2022-07-28
+C00669,United States,Gold,2022-06-19
+C00670,United States,Silver,2022-10-05
+C00671,United States,Silver,2022-08-27
+C00672,Japan,Gold,2022-08-01
+C00673,United States,Bronze,2022-02-01
+C00674,United Kingdom,Gold,2022-04-16
+C00675,United States,Bronze,2022-08-04
+C00676,Spain,Silver,2022-07-19
+C00677,United States,Silver,2022-10-27
+C00678,United States,Silver,2022-12-23
+C00679,Mexico,Bronze,2022-01-11
+C00680,Australia,Silver,2022-10-22
+C00681,France,Bronze,2022-07-14
+C00682,United States,Gold,2022-09-02
+C00683,United States,Bronze,2022-01-04
+C00684,Canada,Silver,2022-06-30
+C00685,Brazil,Bronze,2022-06-02
+C00686,United Kingdom,Bronze,2022-07-19
+C00687,United Kingdom,Bronze,2022-08-03
+C00688,United States,Silver,2022-10-03
+C00689,Germany,Gold,2022-10-07
+C00690,United States,Gold,2022-11-05
+C00691,United States,Bronze,2022-04-23
+C00692,United States,Bronze,2022-09-07
+C00693,United Kingdom,Bronze,2022-04-23
+C00694,United States,Silver,2022-05-20
+C00695,United States,Silver,2022-08-12
+C00696,Canada,Gold,2022-09-06
+C00697,United States,Bronze,2022-01-15
+C00698,United Kingdom,Bronze,2022-07-19
+C00699,United States,Bronze,2022-06-22
+C00700,United Kingdom,Silver,2022-12-09
+C00701,United Kingdom,Bronze,2022-12-14
+C00702,United States,Bronze,2022-07-27
+C00703,United States,Silver,2022-03-26
+C00704,United States,Bronze,2022-08-28
+C00705,United States,Bronze,2022-03-07
+C00706,Spain,Bronze,2022-11-15
+C00707,United States,Bronze,2022-10-01
+C00708,France,Silver,2022-01-14
+C00709,United States,Silver,2022-07-21
+C00710,Canada,Bronze,2022-10-31
+C00711,Germany,Gold,2022-10-16
+C00712,United Kingdom,Bronze,2022-12-06
+C00713,United Kingdom,Bronze,2022-01-14
+C00714,United States,Bronze,2022-02-12
+C00715,United States,Bronze,2022-11-26
+C00716,Brazil,Silver,2022-08-08
+C00717,Australia,Silver,2022-03-11
+C00718,Mexico,Gold,2022-08-25
+C00719,United States,Silver,2022-04-04
+C00720,Germany,Silver,2022-01-26
+C00721,Brazil,Silver,2022-05-14
+C00722,United States,Bronze,2022-07-14
+C00723,United States,Bronze,2022-06-17
+C00724,Germany,Silver,2022-04-19
+C00725,United Kingdom,Silver,2022-08-21
+C00726,Australia,Bronze,2022-06-17
+C00727,United States,Gold,2022-06-22
+C00728,France,Gold,2022-07-14
+C00729,United States,Silver,2022-05-23
+C00730,United States,Bronze,2022-08-04
+C00731,United States,Silver,2022-05-10
+C00732,France,Bronze,2022-02-11
+C00733,Canada,Silver,2022-08-29
+C00734,United Kingdom,Bronze,2022-01-10
+C00735,United States,Silver,2022-10-04
+C00736,Australia,Silver,2022-01-27
+C00737,United States,Bronze,2022-06-29
+C00738,France,Bronze,2022-04-25
+C00739,United States,Bronze,2022-11-29
+C00740,United States,Bronze,2022-02-05
+C00741,United Kingdom,Bronze,2022-11-30
+C00742,United States,Bronze,2022-01-21
+C00743,Germany,Bronze,2022-01-16
+C00744,United Kingdom,Gold,2022-05-07
+C00745,United States,Gold,2022-04-13
+C00746,Japan,Silver,2022-01-11
+C00747,United States,Bronze,2022-11-15
+C00748,United Kingdom,Silver,2022-03-20
+C00749,Japan,Silver,2022-05-03
+C00750,Canada,Bronze,2022-03-06
+C00751,United States,Bronze,2022-08-31
+C00752,Brazil,Bronze,2022-12-09
+C00753,Canada,Silver,2022-02-28
+C00754,United States,Bronze,2022-10-16
+C00755,United States,Silver,2022-04-22
+C00756,France,Silver,2022-08-27
+C00757,Canada,Silver,2022-12-25
+C00758,United Kingdom,Silver,2022-05-12
+C00759,Japan,Silver,2022-07-08
+C00760,France,Bronze,2022-03-27
+C00761,United States,Gold,2022-11-07
+C00762,United States,Bronze,2022-11-07
+C00763,United States,Bronze,2022-02-28
+C00764,Germany,Silver,2022-03-25
+C00765,United States,Silver,2022-06-09
+C00766,United Kingdom,Silver,2022-02-25
+C00767,Germany,Bronze,2022-10-24
+C00768,Australia,Silver,2022-01-14
+C00769,United States,Silver,2022-06-09
+C00770,France,Gold,2022-10-22
+C00771,United States,Bronze,2022-12-13
+C00772,Australia,Bronze,2022-07-12
+C00773,United States,Silver,2022-07-23
+C00774,United States,Bronze,2022-04-12
+C00775,France,Bronze,2022-02-08
+C00776,United States,Bronze,2022-10-31
+C00777,United States,Bronze,2022-12-20
+C00778,Germany,Bronze,2022-11-18
+C00779,Germany,Bronze,2022-05-05
+C00780,Canada,Bronze,2022-02-22
+C00781,Canada,Silver,2022-12-23
+C00782,United Kingdom,Silver,2022-06-04
+C00783,United States,Gold,2022-12-17
+C00784,United States,Bronze,2022-11-04
+C00785,United States,Bronze,2022-03-03
+C00786,Japan,Gold,2022-10-17
+C00787,United Kingdom,Bronze,2022-01-22
+C00788,United States,Silver,2022-06-27
+C00789,United Kingdom,Gold,2022-09-30
+C00790,Brazil,Bronze,2022-08-08
+C00791,United States,Silver,2022-12-05
+C00792,United Kingdom,Gold,2022-07-09
+C00793,United Kingdom,Bronze,2022-02-05
+C00794,Canada,Bronze,2022-09-17
+C00795,United States,Gold,2022-11-28
+C00796,Australia,Bronze,2022-06-24
+C00797,Brazil,Bronze,2022-01-07
+C00798,United Kingdom,Gold,2022-08-04
+C00799,Canada,Silver,2022-09-08
+C00800,Brazil,Bronze,2022-02-24
+C00801,Germany,Silver,2022-08-10
+C00802,United States,Bronze,2022-07-05
+C00803,United Kingdom,Bronze,2022-11-22
+C00804,Canada,Bronze,2022-08-24
+C00805,United States,Silver,2022-12-29
+C00806,Germany,Bronze,2022-03-20
+C00807,Brazil,Silver,2022-08-11
+C00808,Brazil,Silver,2022-04-01
+C00809,United Kingdom,Gold,2022-09-25
+C00810,United States,Gold,2022-11-30
+C00811,Spain,Bronze,2022-05-19
+C00812,Australia,Silver,2022-11-12
+C00813,United States,Silver,2022-10-03
+C00814,Brazil,Bronze,2022-09-05
+C00815,Australia,Silver,2022-08-27
+C00816,United Kingdom,Bronze,2022-08-12
+C00817,United Kingdom,Silver,2022-10-31
+C00818,United States,Bronze,2022-05-18
+C00819,United States,Bronze,2022-06-15
+C00820,United States,Silver,2022-05-06
+C00821,France,Silver,2022-02-14
+C00822,United States,Silver,2022-05-23
+C00823,United States,Bronze,2022-08-19
+C00824,United States,Silver,2022-05-05
+C00825,United Kingdom,Silver,2022-08-26
+C00826,Japan,Gold,2022-10-19
+C00827,United States,Silver,2022-11-09
+C00828,United States,Silver,2022-12-09
+C00829,Germany,Bronze,2022-07-14
+C00830,United Kingdom,Silver,2022-06-22
+C00831,United States,Silver,2022-01-15
+C00832,United Kingdom,Bronze,2022-09-11
+C00833,United States,Bronze,2022-06-16
+C00834,United States,Silver,2022-04-04
+C00835,United Kingdom,Silver,2022-09-07
+C00836,United States,Silver,2022-04-19
+C00837,Japan,Bronze,2022-07-01
+C00838,United States,Gold,2022-05-13
+C00839,United Kingdom,Bronze,2022-06-24
+C00840,Canada,Bronze,2022-05-24
+C00841,United States,Bronze,2022-11-02
+C00842,Canada,Gold,2022-12-26
+C00843,United States,Silver,2022-05-22
+C00844,Mexico,Silver,2022-10-12
+C00845,United States,Silver,2022-01-06
+C00846,United States,Bronze,2022-09-22
+C00847,United States,Bronze,2022-04-08
+C00848,Spain,Bronze,2022-02-13
+C00849,United Kingdom,Bronze,2022-05-04
+C00850,United Kingdom,Gold,2022-07-28
+C00851,United States,Silver,2022-09-08
+C00852,Germany,Gold,2022-10-12
+C00853,United States,Bronze,2022-05-04
+C00854,Japan,Bronze,2022-12-20
+C00855,United States,Bronze,2022-09-01
+C00856,United States,Gold,2022-11-27
+C00857,United States,Silver,2022-12-31
+C00858,United Kingdom,Bronze,2022-09-09
+C00859,United Kingdom,Silver,2022-08-18
+C00860,United States,Bronze,2022-01-09
+C00861,France,Bronze,2022-02-17
+C00862,United Kingdom,Bronze,2022-05-31
+C00863,United Kingdom,Silver,2022-04-24
+C00864,United States,Silver,2022-07-27
+C00865,United States,Gold,2022-12-21
+C00866,United Kingdom,Silver,2022-05-05
+C00867,United States,Silver,2022-06-06
+C00868,United States,Bronze,2022-12-06
+C00869,Australia,Bronze,2022-10-25
+C00870,Brazil,Gold,2022-07-08
+C00871,United States,Silver,2022-08-31
+C00872,United States,Silver,2022-10-11
+C00873,Canada,Silver,2022-09-29
+C00874,United States,Bronze,2022-06-26
+C00875,United States,Gold,2022-08-06
+C00876,United States,Silver,2022-10-09
+C00877,Germany,Silver,2022-06-19
+C00878,Canada,Bronze,2022-06-30
+C00879,United States,Bronze,2022-12-26
+C00880,United States,Silver,2022-08-21
+C00881,United States,Bronze,2022-05-19
+C00882,Canada,Bronze,2022-06-06
+C00883,United States,Bronze,2022-05-09
+C00884,United States,Silver,2022-04-29
+C00885,France,Bronze,2022-03-03
+C00886,United States,Bronze,2022-04-09
+C00887,Canada,Bronze,2022-06-11
+C00888,United States,Bronze,2022-03-03
+C00889,United States,Bronze,2022-10-02
+C00890,United States,Silver,2022-12-20
+C00891,Germany,Bronze,2022-04-05
+C00892,Australia,Bronze,2022-04-09
+C00893,Australia,Bronze,2022-04-21
+C00894,United States,Silver,2022-09-05
+C00895,Canada,Bronze,2022-05-22
+C00896,United States,Bronze,2022-10-29
+C00897,United States,Gold,2022-09-26
+C00898,Japan,Bronze,2022-11-02
+C00899,United States,Bronze,2022-05-25
+C00900,United States,Bronze,2022-02-21
+C00901,United States,Silver,2022-04-10
+C00902,United States,Silver,2022-06-01
+C00903,United States,Bronze,2022-04-27
+C00904,United Kingdom,Silver,2022-07-04
+C00905,United States,Bronze,2022-04-02
+C00906,Japan,Silver,2022-06-04
+C00907,France,Bronze,2022-01-08
+C00908,United States,Silver,2022-12-29
+C00909,United States,Bronze,2022-10-01
+C00910,United States,Silver,2022-03-06
+C00911,United Kingdom,Gold,2022-05-21
+C00912,United States,Silver,2022-01-24
+C00913,Canada,Gold,2022-01-28
+C00914,United States,Bronze,2022-10-11
+C00915,United Kingdom,Bronze,2022-05-30
+C00916,United States,Silver,2022-12-24
+C00917,United States,Bronze,2022-03-06
+C00918,Brazil,Silver,2022-11-23
+C00919,Germany,Bronze,2022-09-09
+C00920,United States,Bronze,2022-02-22
+C00921,Australia,Bronze,2022-01-07
+C00922,United Kingdom,Silver,2022-10-21
+C00923,Japan,Bronze,2022-05-26
+C00924,France,Silver,2022-08-29
+C00925,United States,Bronze,2022-09-03
+C00926,United States,Gold,2022-08-14
+C00927,United States,Bronze,2022-06-24
+C00928,United Kingdom,Bronze,2022-04-05
+C00929,Canada,Bronze,2022-01-27
+C00930,United States,Gold,2022-05-10
+C00931,United States,Bronze,2022-09-02
+C00932,Australia,Silver,2022-02-28
+C00933,Spain,Bronze,2022-02-03
+C00934,United Kingdom,Silver,2022-07-25
+C00935,United States,Silver,2022-09-09
+C00936,United States,Bronze,2022-02-07
+C00937,United States,Silver,2022-10-23
+C00938,Japan,Silver,2022-11-19
+C00939,United States,Silver,2022-12-18
+C00940,United Kingdom,Silver,2022-01-28
+C00941,United States,Bronze,2022-03-19
+C00942,United Kingdom,Bronze,2022-03-18
+C00943,Canada,Gold,2022-10-16
+C00944,France,Silver,2022-06-05
+C00945,United States,Gold,2022-02-13
+C00946,United States,Gold,2022-05-08
+C00947,United States,Bronze,2022-03-02
+C00948,Japan,Bronze,2022-10-13
+C00949,Australia,Silver,2022-08-02
+C00950,United Kingdom,Silver,2022-11-07
+C00951,Canada,Gold,2022-11-02
+C00952,Canada,Bronze,2022-11-13
+C00953,United States,Bronze,2022-04-26
+C00954,Japan,Gold,2022-09-25
+C00955,United States,Silver,2022-07-14
+C00956,United States,Bronze,2022-08-19
+C00957,United Kingdom,Bronze,2022-08-15
+C00958,United States,Silver,2022-06-02
+C00959,United States,Gold,2022-10-29
+C00960,Germany,Gold,2022-08-08
+C00961,United States,Bronze,2022-06-06
+C00962,Canada,Silver,2022-10-19
+C00963,United States,Gold,2022-11-14
+C00964,United States,Bronze,2022-01-31
+C00965,United States,Gold,2022-11-09
+C00966,United States,Bronze,2022-02-20
+C00967,Germany,Silver,2022-04-17
+C00968,United States,Gold,2022-11-17
+C00969,United Kingdom,Bronze,2022-04-19
+C00970,United Kingdom,Silver,2022-05-16
+C00971,Canada,Bronze,2022-12-05
+C00972,Brazil,Bronze,2022-02-11
+C00973,Germany,Silver,2022-03-22
+C00974,United States,Bronze,2022-05-03
+C00975,United States,Silver,2022-03-30
+C00976,United States,Bronze,2022-10-10
+C00977,United Kingdom,Silver,2022-02-08
+C00978,United States,Bronze,2022-03-22
+C00979,United Kingdom,Gold,2022-01-02
+C00980,United Kingdom,Silver,2022-07-29
+C00981,United States,Bronze,2022-08-19
+C00982,France,Bronze,2022-12-19
+C00983,United States,Silver,2022-11-01
+C00984,United States,Silver,2022-08-29
+C00985,Germany,Bronze,2022-05-30
+C00986,United Kingdom,Bronze,2022-01-17
+C00987,Canada,Gold,2022-04-29
+C00988,United States,Silver,2022-05-28
+C00989,United States,Silver,2022-12-28
+C00990,France,Bronze,2022-05-25
+C00991,France,Gold,2022-12-26
+C00992,Canada,Silver,2022-08-21
+C00993,United States,Bronze,2022-02-06
+C00994,United Kingdom,Gold,2022-12-18
+C00995,United States,Silver,2022-04-30
+C00996,United States,Silver,2022-05-16
+C00997,Japan,Silver,2022-11-17
+C00998,United States,Silver,2022-10-29
+C00999,Mexico,Bronze,2022-12-05
+C01000,United States,Silver,2022-04-12
+C01001,United States,Bronze,2022-08-06
+C01002,United Kingdom,Bronze,2022-02-28
+C01003,Australia,Bronze,2022-10-06
+C01004,Germany,Silver,2022-04-26
+C01005,France,Gold,2022-11-28
+C01006,Canada,Silver,2022-03-18
+C01007,Canada,Silver,2022-05-17
+C01008,Australia,Silver,2022-03-14
+C01009,United States,Bronze,2022-02-06
+C01010,United Kingdom,Gold,2022-01-31
+C01011,United States,Gold,2022-03-26
+C01012,Spain,Silver,2022-06-07
+C01013,Brazil,Bronze,2022-11-01
+C01014,United States,Silver,2022-10-19
+C01015,Germany,Bronze,2022-05-28
+C01016,Brazil,Silver,2022-08-13
+C01017,United States,Bronze,2022-03-05
+C01018,United Kingdom,Bronze,2022-08-28
+C01019,Japan,Silver,2022-12-19
+C01020,United States,Silver,2022-06-05
+C01021,Canada,Silver,2022-12-25
+C01022,United States,Silver,2022-07-26
+C01023,Brazil,Bronze,2022-05-20
+C01024,Mexico,Bronze,2022-09-14
+C01025,Brazil,Bronze,2022-10-04
+C01026,United Kingdom,Bronze,2022-09-10
+C01027,Australia,Silver,2022-08-13
+C01028,Australia,Silver,2022-02-11
+C01029,United States,Bronze,2022-11-03
+C01030,France,Silver,2022-01-21
+C01031,United States,Bronze,2022-08-10
+C01032,United Kingdom,Silver,2022-06-15
+C01033,United States,Gold,2022-11-06
+C01034,United States,Bronze,2022-05-09
+C01035,United States,Silver,2022-01-14
+C01036,Canada,Bronze,2022-02-16
+C01037,United States,Bronze,2022-04-28
+C01038,Germany,Bronze,2022-12-12
+C01039,United States,Bronze,2022-10-22
+C01040,United States,Bronze,2022-10-28
+C01041,United Kingdom,Bronze,2022-01-11
+C01042,France,Silver,2022-12-11
+C01043,United States,Silver,2022-05-18
+C01044,Canada,Bronze,2022-10-23
+C01045,Japan,Silver,2022-01-21
+C01046,Canada,Silver,2022-03-31
+C01047,United States,Silver,2022-08-29
+C01048,United States,Bronze,2022-09-23
+C01049,Australia,Bronze,2022-11-30
+C01050,United States,Silver,2022-08-15
+C01051,Australia,Bronze,2022-05-23
+C01052,United Kingdom,Bronze,2022-04-03
+C01053,Brazil,Bronze,2022-10-27
+C01054,France,Bronze,2022-08-12
+C01055,Spain,Bronze,2022-11-22
+C01056,United States,Gold,2022-09-09
+C01057,Germany,Bronze,2022-02-16
+C01058,United States,Gold,2022-08-29
+C01059,United Kingdom,Bronze,2022-06-28
+C01060,Canada,Bronze,2022-07-29
+C01061,Australia,Silver,2022-06-20
+C01062,Spain,Silver,2022-06-14
+C01063,Germany,Bronze,2022-12-10
+C01064,United States,Silver,2022-02-23
+C01065,United States,Bronze,2022-03-24
+C01066,Germany,Gold,2022-06-18
+C01067,United States,Gold,2022-07-30
+C01068,United States,Bronze,2022-12-22
+C01069,United States,Bronze,2022-09-11
+C01070,United States,Bronze,2022-05-28
+C01071,United States,Silver,2022-12-06
+C01072,United States,Bronze,2022-07-25
+C01073,United States,Bronze,2022-10-09
+C01074,United States,Bronze,2022-01-19
+C01075,Spain,Bronze,2022-08-21
+C01076,United States,Bronze,2022-02-15
+C01077,United States,Silver,2022-06-11
+C01078,Canada,Silver,2022-05-10
+C01079,United States,Bronze,2022-06-15
+C01080,Brazil,Silver,2022-03-01
+C01081,France,Bronze,2022-07-26
+C01082,United States,Silver,2022-09-21
+C01083,United States,Bronze,2022-01-01
+C01084,Australia,Bronze,2022-12-03
+C01085,Brazil,Silver,2022-10-05
+C01086,United Kingdom,Gold,2022-08-25
+C01087,Canada,Gold,2022-07-31
+C01088,United States,Bronze,2022-01-28
+C01089,Spain,Bronze,2022-04-07
+C01090,United States,Gold,2022-09-23
+C01091,Brazil,Bronze,2022-07-05
+C01092,Canada,Silver,2022-11-15
+C01093,Canada,Silver,2022-09-13
+C01094,United Kingdom,Bronze,2022-11-17
+C01095,United States,Silver,2022-08-15
+C01096,United States,Silver,2022-01-27
+C01097,United States,Gold,2022-04-15
+C01098,United States,Gold,2022-05-17
+C01099,France,Silver,2022-10-09
+C01100,United States,Gold,2022-03-09
+C01101,United States,Bronze,2022-05-28
+C01102,Mexico,Silver,2022-08-13
+C01103,Japan,Bronze,2022-12-24
+C01104,Brazil,Silver,2022-09-06
+C01105,Spain,Silver,2022-03-04
+C01106,United States,Bronze,2022-01-15
+C01107,United States,Bronze,2022-11-19
+C01108,Germany,Gold,2022-11-08
+C01109,Canada,Bronze,2022-05-03
+C01110,United States,Bronze,2022-12-30
+C01111,France,Bronze,2022-03-23
+C01112,United States,Bronze,2022-06-09
+C01113,United States,Gold,2022-10-10
+C01114,United Kingdom,Gold,2022-01-08
+C01115,United Kingdom,Bronze,2022-10-10
+C01116,United Kingdom,Silver,2022-07-28
+C01117,United States,Bronze,2022-02-17
+C01118,Australia,Silver,2022-04-26
+C01119,United States,Gold,2022-02-28
+C01120,United States,Bronze,2022-08-25
+C01121,Japan,Silver,2022-03-02
+C01122,Mexico,Bronze,2022-11-28
+C01123,Australia,Bronze,2022-03-20
+C01124,France,Bronze,2022-09-13
+C01125,Canada,Bronze,2022-05-30
+C01126,United Kingdom,Bronze,2022-09-18
+C01127,United States,Bronze,2022-12-28
+C01128,United States,Bronze,2022-05-20
+C01129,United States,Silver,2022-08-01
+C01130,United States,Gold,2022-09-05
+C01131,Germany,Silver,2022-08-30
+C01132,United Kingdom,Silver,2022-05-05
+C01133,United States,Bronze,2022-08-22
+C01134,United States,Bronze,2022-10-10
+C01135,Canada,Bronze,2022-03-16
+C01136,United States,Gold,2022-07-16
+C01137,Australia,Bronze,2022-04-08
+C01138,United Kingdom,Silver,2022-11-03
+C01139,United Kingdom,Bronze,2022-09-18
+C01140,United Kingdom,Bronze,2022-03-11
+C01141,France,Silver,2022-02-05
+C01142,United States,Gold,2022-05-22
+C01143,Canada,Gold,2022-08-01
+C01144,United Kingdom,Bronze,2022-06-24
+C01145,United States,Bronze,2022-09-17
+C01146,Australia,Bronze,2022-05-17
+C01147,France,Gold,2022-01-02
+C01148,Canada,Silver,2022-05-25
+C01149,Australia,Bronze,2022-06-02
+C01150,Australia,Bronze,2022-10-28
+C01151,Germany,Gold,2022-10-24
+C01152,Australia,Gold,2022-12-04
+C01153,Canada,Bronze,2022-09-08
+C01154,Canada,Silver,2022-03-18
+C01155,Canada,Silver,2022-08-17
+C01156,Germany,Gold,2022-10-03
+C01157,United States,Bronze,2022-09-05
+C01158,Japan,Bronze,2022-06-26
+C01159,Australia,Bronze,2022-06-20
+C01160,United States,Bronze,2022-10-10
+C01161,France,Bronze,2022-10-06
+C01162,United States,Gold,2022-07-13
+C01163,United States,Bronze,2022-08-22
+C01164,Germany,Silver,2022-06-14
+C01165,United States,Bronze,2022-04-07
+C01166,France,Silver,2022-12-24
+C01167,Australia,Silver,2022-05-03
+C01168,United Kingdom,Gold,2022-10-20
+C01169,United States,Silver,2022-07-16
+C01170,United States,Gold,2022-04-30
+C01171,Canada,Silver,2022-07-30
+C01172,Spain,Bronze,2022-01-23
+C01173,Canada,Silver,2022-06-12
+C01174,United States,Bronze,2022-08-31
+C01175,Canada,Bronze,2022-12-28
+C01176,United Kingdom,Bronze,2022-07-15
+C01177,France,Bronze,2022-07-17
+C01178,United States,Bronze,2022-12-06
+C01179,Germany,Silver,2022-11-30
+C01180,United Kingdom,Silver,2022-03-19
+C01181,Mexico,Silver,2022-09-11
+C01182,United States,Bronze,2022-01-19
+C01183,Canada,Bronze,2022-03-06
+C01184,Brazil,Silver,2022-09-15
+C01185,United States,Gold,2022-10-30
+C01186,Brazil,Bronze,2022-06-19
+C01187,Canada,Gold,2022-02-21
+C01188,United States,Bronze,2022-08-14
+C01189,United States,Bronze,2022-02-21
+C01190,Germany,Bronze,2022-09-27
+C01191,United States,Bronze,2022-08-22
+C01192,United Kingdom,Bronze,2022-01-08
+C01193,United States,Silver,2022-03-15
+C01194,Canada,Bronze,2022-07-29
+C01195,United States,Bronze,2022-12-02
+C01196,Australia,Silver,2022-03-21
+C01197,Mexico,Gold,2022-02-08
+C01198,Mexico,Silver,2022-08-29
+C01199,Germany,Silver,2022-05-16
+C01200,United States,Bronze,2022-06-23
+C01201,Germany,Bronze,2022-11-16
+C01202,United States,Silver,2022-12-21
+C01203,United States,Gold,2022-07-23
+C01204,United States,Bronze,2022-11-29
+C01205,United Kingdom,Gold,2022-02-11
+C01206,France,Silver,2022-06-18
+C01207,Canada,Bronze,2022-12-12
+C01208,United States,Bronze,2022-10-01
+C01209,United States,Gold,2022-07-14
+C01210,Spain,Gold,2022-06-12
+C01211,United States,Gold,2022-11-17
+C01212,United Kingdom,Bronze,2022-09-07
+C01213,United States,Bronze,2022-10-05
+C01214,France,Silver,2022-01-19
+C01215,Canada,Bronze,2022-11-13
+C01216,United States,Bronze,2022-02-05
+C01217,United States,Gold,2022-05-01
+C01218,Canada,Silver,2022-11-20
+C01219,Canada,Bronze,2022-12-17
+C01220,United States,Silver,2022-05-28
+C01221,Mexico,Silver,2022-04-27
+C01222,United States,Bronze,2022-02-16
+C01223,United States,Bronze,2022-08-11
+C01224,Brazil,Bronze,2022-02-20
+C01225,United States,Bronze,2022-11-21
+C01226,Canada,Bronze,2022-12-27
+C01227,United States,Silver,2022-02-21
+C01228,United States,Bronze,2022-08-16
+C01229,Spain,Silver,2022-03-27
+C01230,United States,Silver,2022-12-22
+C01231,Japan,Bronze,2022-06-03
+C01232,United States,Bronze,2022-01-15
+C01233,United States,Silver,2022-01-24
+C01234,United States,Bronze,2022-06-16
+C01235,Canada,Gold,2022-01-29
+C01236,United States,Silver,2022-05-31
+C01237,Australia,Gold,2022-07-03
+C01238,United Kingdom,Bronze,2022-07-11
+C01239,Mexico,Bronze,2022-08-09
+C01240,United States,Silver,2022-03-16
+C01241,Australia,Bronze,2022-05-06
+C01242,France,Silver,2022-09-29
+C01243,France,Bronze,2022-07-30
+C01244,Australia,Silver,2022-10-17
+C01245,Germany,Silver,2022-12-16
+C01246,Canada,Bronze,2022-04-03
+C01247,United States,Silver,2022-03-29
+C01248,United States,Gold,2022-03-31
+C01249,Brazil,Bronze,2022-02-10
+C01250,Canada,Bronze,2022-11-09
+C01251,France,Silver,2022-07-15
+C01252,United Kingdom,Gold,2022-11-14
+C01253,United States,Silver,2022-12-16
+C01254,United States,Bronze,2022-05-04
+C01255,Canada,Silver,2022-09-12
+C01256,United States,Bronze,2022-10-26
+C01257,United States,Bronze,2022-03-15
+C01258,United Kingdom,Silver,2022-04-29
+C01259,United States,Silver,2022-08-25
+C01260,United Kingdom,Silver,2022-11-23
+C01261,United States,Gold,2022-05-11
+C01262,France,Bronze,2022-08-24
+C01263,United States,Silver,2022-05-11
+C01264,United Kingdom,Silver,2022-12-08
+C01265,United States,Bronze,2022-01-05
+C01266,United States,Silver,2022-08-27
+C01267,United States,Bronze,2022-05-28
+C01268,United Kingdom,Gold,2022-12-13
+C01269,Canada,Bronze,2022-10-07
+C01270,United States,Bronze,2022-03-22
+C01271,Canada,Bronze,2022-02-07
+C01272,Australia,Bronze,2022-08-15
+C01273,France,Silver,2022-06-26
+C01274,United States,Silver,2022-10-28
+C01275,United Kingdom,Bronze,2022-06-03
+C01276,United States,Bronze,2022-11-24
+C01277,United States,Silver,2022-08-06
+C01278,Spain,Silver,2022-12-20
+C01279,United States,Gold,2022-05-09
+C01280,United Kingdom,Silver,2022-08-22
+C01281,Canada,Silver,2022-06-04
+C01282,Germany,Bronze,2022-04-12
+C01283,United Kingdom,Silver,2022-07-16
+C01284,United States,Gold,2022-09-05
+C01285,United States,Bronze,2022-02-24
+C01286,United Kingdom,Bronze,2022-05-02
+C01287,United States,Bronze,2022-07-15
+C01288,United States,Bronze,2022-10-20
+C01289,United States,Silver,2022-07-03
+C01290,United States,Bronze,2022-10-22
+C01291,United States,Bronze,2022-06-01
+C01292,United States,Gold,2022-12-25
+C01293,United Kingdom,Bronze,2022-06-01
+C01294,Canada,Bronze,2022-01-12
+C01295,France,Silver,2022-12-04
+C01296,United States,Silver,2022-07-22
+C01297,United States,Gold,2022-05-21
+C01298,United States,Silver,2022-01-05
+C01299,Canada,Silver,2022-10-17
+C01300,Germany,Bronze,2022-12-18
+C01301,United States,Gold,2022-01-26
+C01302,Brazil,Bronze,2022-11-07
+C01303,United States,Bronze,2022-09-12
+C01304,United Kingdom,Bronze,2022-05-27
+C01305,Germany,Bronze,2022-04-28
+C01306,Australia,Gold,2022-11-07
+C01307,Germany,Silver,2022-06-30
+C01308,France,Bronze,2022-04-23
+C01309,United States,Bronze,2022-11-22
+C01310,France,Bronze,2022-04-08
+C01311,United States,Silver,2022-11-14
+C01312,Japan,Bronze,2022-05-09
+C01313,United Kingdom,Gold,2022-12-14
+C01314,France,Bronze,2022-12-04
+C01315,United Kingdom,Bronze,2022-12-15
+C01316,Canada,Silver,2022-03-12
+C01317,United Kingdom,Bronze,2022-11-18
+C01318,Germany,Gold,2022-02-19
+C01319,United States,Silver,2022-11-18
+C01320,United States,Bronze,2022-11-27
+C01321,United States,Bronze,2022-01-21
+C01322,United States,Bronze,2022-06-08
+C01323,Australia,Bronze,2022-08-14
+C01324,United States,Silver,2022-01-18
+C01325,Mexico,Bronze,2022-10-24
+C01326,United States,Bronze,2022-07-06
+C01327,United States,Gold,2022-03-09
+C01328,France,Bronze,2022-02-16
+C01329,Canada,Gold,2022-06-01
+C01330,United Kingdom,Bronze,2022-06-17
+C01331,United Kingdom,Silver,2022-08-01
+C01332,Germany,Gold,2022-03-31
+C01333,United States,Silver,2022-04-13
+C01334,Spain,Bronze,2022-03-09
+C01335,Mexico,Silver,2022-10-04
+C01336,Canada,Gold,2022-07-07
+C01337,United States,Bronze,2022-09-29
+C01338,Canada,Bronze,2022-09-14
+C01339,United States,Silver,2022-05-20
+C01340,United States,Silver,2022-03-26
+C01341,United States,Silver,2022-05-12
+C01342,United Kingdom,Gold,2022-09-04
+C01343,Australia,Bronze,2022-06-01
+C01344,Germany,Bronze,2022-06-23
+C01345,Germany,Bronze,2022-02-28
+C01346,United States,Silver,2022-08-28
+C01347,United States,Bronze,2022-02-08
+C01348,United States,Bronze,2022-03-14
+C01349,Spain,Bronze,2022-04-26
+C01350,United States,Bronze,2022-12-13
+C01351,Australia,Bronze,2022-12-12
+C01352,United Kingdom,Bronze,2022-07-23
+C01353,United States,Silver,2022-10-13
+C01354,Germany,Bronze,2022-07-07
+C01355,United Kingdom,Bronze,2022-02-16
+C01356,Australia,Bronze,2022-07-22
+C01357,Japan,Silver,2022-01-08
+C01358,United States,Bronze,2022-05-16
+C01359,United States,Bronze,2022-10-02
+C01360,United Kingdom,Silver,2022-03-05
+C01361,Japan,Gold,2022-08-21
+C01362,United States,Bronze,2022-07-08
+C01363,Canada,Bronze,2022-12-11
+C01364,Canada,Bronze,2022-12-11
+C01365,Germany,Silver,2022-05-15
+C01366,United States,Bronze,2022-10-27
+C01367,Germany,Gold,2022-07-15
+C01368,Japan,Silver,2022-11-23
+C01369,United States,Silver,2022-07-10
+C01370,United States,Silver,2022-02-25
+C01371,Mexico,Silver,2022-12-12
+C01372,United States,Silver,2022-04-30
+C01373,Australia,Gold,2022-08-30
+C01374,United Kingdom,Silver,2022-01-13
+C01375,United States,Bronze,2022-11-14
+C01376,Australia,Silver,2022-10-15
+C01377,United States,Silver,2022-06-17
+C01378,United Kingdom,Bronze,2022-11-09
+C01379,United States,Gold,2022-04-24
+C01380,United Kingdom,Bronze,2022-11-28
+C01381,United States,Gold,2022-02-02
+C01382,United States,Gold,2022-11-22
+C01383,Mexico,Bronze,2022-08-26
+C01384,United States,Bronze,2022-12-25
+C01385,Canada,Bronze,2022-06-04
+C01386,United States,Bronze,2022-11-29
+C01387,France,Bronze,2022-07-29
+C01388,United States,Gold,2022-03-01
+C01389,Mexico,Gold,2022-03-13
+C01390,United Kingdom,Gold,2022-01-24
+C01391,United States,Silver,2022-01-20
+C01392,United States,Bronze,2022-06-05
+C01393,United States,Bronze,2022-09-10
+C01394,United Kingdom,Gold,2022-03-01
+C01395,United States,Bronze,2022-02-19
+C01396,France,Bronze,2022-05-01
+C01397,United States,Silver,2022-10-03
+C01398,United States,Gold,2022-03-11
+C01399,Canada,Silver,2022-07-18
+C01400,Germany,Gold,2022-08-21
+C01401,United States,Gold,2022-07-09
+C01402,United States,Bronze,2022-12-10
+C01403,United States,Silver,2022-12-23
+C01404,Germany,Silver,2022-10-04
+C01405,Canada,Bronze,2022-08-03
+C01406,United Kingdom,Bronze,2022-10-28
+C01407,Australia,Bronze,2022-03-21
+C01408,France,Gold,2022-08-01
+C01409,United Kingdom,Silver,2022-12-02
+C01410,Australia,Bronze,2022-02-20
+C01411,United States,Gold,2022-09-08
+C01412,United States,Gold,2022-11-12
+C01413,United States,Bronze,2022-07-28
+C01414,United States,Bronze,2022-05-24
+C01415,United Kingdom,Silver,2022-01-17
+C01416,Brazil,Silver,2022-12-20
+C01417,United States,Silver,2022-07-09
+C01418,United States,Gold,2022-04-22
+C01419,United Kingdom,Silver,2022-08-16
+C01420,Brazil,Silver,2022-08-16
+C01421,United States,Gold,2022-05-01
+C01422,United Kingdom,Bronze,2022-07-05
+C01423,United States,Bronze,2022-02-20
+C01424,United States,Bronze,2022-12-18
+C01425,Spain,Silver,2022-07-08
+C01426,Mexico,Silver,2022-10-06
+C01427,United States,Silver,2022-11-27
+C01428,Mexico,Gold,2022-07-03
+C01429,Canada,Silver,2022-02-01
+C01430,Australia,Bronze,2022-07-23
+C01431,United Kingdom,Bronze,2022-05-22
+C01432,United Kingdom,Bronze,2022-04-08
+C01433,United Kingdom,Silver,2022-03-04
+C01434,Canada,Bronze,2022-08-21
+C01435,United States,Gold,2022-02-16
+C01436,United States,Silver,2022-12-06
+C01437,United States,Silver,2022-04-19
+C01438,Germany,Bronze,2022-11-25
+C01439,United States,Bronze,2022-11-24
+C01440,Canada,Silver,2022-11-02
+C01441,Mexico,Bronze,2022-01-11
+C01442,United States,Bronze,2022-01-26
+C01443,Canada,Silver,2022-06-20
+C01444,United States,Silver,2022-05-05
+C01445,Australia,Silver,2022-03-06
+C01446,United States,Bronze,2022-10-17
+C01447,Canada,Silver,2022-04-16
+C01448,Australia,Bronze,2022-02-05
+C01449,Brazil,Silver,2022-10-11
+C01450,Canada,Bronze,2022-04-17
+C01451,United Kingdom,Silver,2022-10-28
+C01452,Canada,Bronze,2022-04-21
+C01453,Australia,Bronze,2022-04-30
+C01454,United Kingdom,Bronze,2022-06-18
+C01455,United States,Bronze,2022-03-17
+C01456,Brazil,Gold,2022-11-02
+C01457,Canada,Bronze,2022-01-02
+C01458,Canada,Gold,2022-05-22
+C01459,United States,Silver,2022-03-16
+C01460,Canada,Bronze,2022-03-08
+C01461,United States,Silver,2022-10-04
+C01462,Canada,Bronze,2022-05-09
+C01463,United States,Bronze,2022-03-31
+C01464,Canada,Gold,2022-02-26
+C01465,Spain,Bronze,2022-12-05
+C01466,United States,Silver,2022-01-14
+C01467,Mexico,Gold,2022-03-09
+C01468,United States,Silver,2022-01-08
+C01469,Australia,Bronze,2022-07-03
+C01470,France,Bronze,2022-05-02
+C01471,United Kingdom,Bronze,2022-10-29
+C01472,Germany,Bronze,2022-06-15
+C01473,Australia,Silver,2022-01-09
+C01474,United States,Silver,2022-03-31
+C01475,United States,Bronze,2022-05-16
+C01476,Canada,Silver,2022-01-27
+C01477,France,Silver,2022-03-06
+C01478,Germany,Silver,2022-08-04
+C01479,France,Bronze,2022-09-27
+C01480,United States,Bronze,2022-02-28
+C01481,France,Silver,2022-02-02
+C01482,United States,Silver,2022-09-01
+C01483,United Kingdom,Bronze,2022-08-18
+C01484,United States,Bronze,2022-07-05
+C01485,United States,Silver,2022-09-20
+C01486,United States,Bronze,2022-10-31
+C01487,United States,Gold,2022-02-25
+C01488,Canada,Silver,2022-08-20
+C01489,United States,Bronze,2022-09-15
+C01490,United States,Bronze,2022-04-24
+C01491,United States,Silver,2022-11-11
+C01492,United States,Bronze,2022-01-23
+C01493,United States,Bronze,2022-12-04
+C01494,United States,Bronze,2022-09-24
+C01495,Canada,Bronze,2022-06-04
+C01496,Canada,Bronze,2022-08-23
+C01497,Canada,Silver,2022-11-26
+C01498,United Kingdom,Gold,2022-01-16
+C01499,United States,Silver,2022-02-01
+C01500,Australia,Silver,2022-09-03
+C01501,United Kingdom,Bronze,2022-07-25
+C01502,United Kingdom,Bronze,2022-08-07
+C01503,United States,Silver,2022-12-18
+C01504,United States,Gold,2022-02-25
+C01505,United States,Silver,2022-09-09
+C01506,United States,Silver,2022-12-31
+C01507,United Kingdom,Bronze,2022-08-16
+C01508,United Kingdom,Gold,2022-02-07
+C01509,Canada,Bronze,2022-02-11
+C01510,Germany,Bronze,2022-06-14
+C01511,France,Silver,2022-11-08
+C01512,Germany,Silver,2022-03-17
+C01513,Mexico,Gold,2022-02-03
+C01514,United States,Bronze,2022-03-06
+C01515,United States,Bronze,2022-05-21
+C01516,United States,Silver,2022-11-16
+C01517,Canada,Bronze,2022-11-21
+C01518,Japan,Bronze,2022-10-27
+C01519,United States,Silver,2022-10-08
+C01520,Brazil,Gold,2022-12-31
+C01521,United States,Bronze,2022-06-16
+C01522,Brazil,Bronze,2022-07-15
+C01523,United States,Bronze,2022-11-02
+C01524,United States,Bronze,2022-09-29
+C01525,United Kingdom,Bronze,2022-05-31
+C01526,United States,Silver,2022-08-21
+C01527,United States,Bronze,2022-09-16
+C01528,United States,Bronze,2022-11-06
+C01529,France,Bronze,2022-08-09
+C01530,United Kingdom,Silver,2022-02-20
+C01531,United States,Silver,2022-12-26
+C01532,Canada,Silver,2022-02-28
+C01533,Germany,Silver,2022-12-02
+C01534,United States,Silver,2022-11-30
+C01535,United States,Bronze,2022-10-10
+C01536,United States,Bronze,2022-04-21
+C01537,United States,Silver,2022-08-09
+C01538,Canada,Bronze,2022-08-20
+C01539,United States,Gold,2022-04-27
+C01540,United Kingdom,Gold,2022-07-31
+C01541,Germany,Silver,2022-06-23
+C01542,United States,Bronze,2022-08-21
+C01543,United Kingdom,Silver,2022-07-24
+C01544,United States,Silver,2022-08-01
+C01545,Mexico,Silver,2022-02-18
+C01546,United Kingdom,Bronze,2022-06-10
+C01547,France,Gold,2022-08-07
+C01548,United Kingdom,Bronze,2022-06-10
+C01549,United States,Bronze,2022-12-07
+C01550,Canada,Bronze,2022-05-11
+C01551,Mexico,Bronze,2022-07-11
+C01552,Canada,Gold,2022-03-20
+C01553,France,Silver,2022-12-18
+C01554,Japan,Bronze,2022-08-31
+C01555,United States,Silver,2022-02-04
+C01556,United States,Bronze,2022-02-16
+C01557,Canada,Bronze,2022-02-13
+C01558,United States,Bronze,2022-02-17
+C01559,Australia,Bronze,2022-08-10
+C01560,Japan,Bronze,2022-02-19
+C01561,United States,Bronze,2022-07-10
+C01562,United States,Silver,2022-03-08
+C01563,France,Bronze,2022-10-12
+C01564,United States,Gold,2022-01-31
+C01565,France,Silver,2022-10-28
+C01566,United States,Bronze,2022-10-15
+C01567,Canada,Silver,2022-10-15
+C01568,United States,Silver,2022-06-18
+C01569,Canada,Gold,2022-12-10
+C01570,United Kingdom,Bronze,2022-03-04
+C01571,United Kingdom,Bronze,2022-07-30
+C01572,United States,Bronze,2022-07-01
+C01573,Germany,Silver,2022-12-07
+C01574,Australia,Bronze,2022-08-05
+C01575,United States,Bronze,2022-01-27
+C01576,United States,Silver,2022-05-28
+C01577,United States,Silver,2022-11-04
+C01578,Canada,Silver,2022-06-09
+C01579,Canada,Bronze,2022-06-30
+C01580,United Kingdom,Bronze,2022-02-23
+C01581,United States,Bronze,2022-10-23
+C01582,United States,Silver,2022-09-17
+C01583,United Kingdom,Bronze,2022-04-19
+C01584,United Kingdom,Bronze,2022-03-21
+C01585,Spain,Bronze,2022-12-03
+C01586,United States,Bronze,2022-09-04
+C01587,Canada,Silver,2022-04-25
+C01588,United States,Gold,2022-02-25
+C01589,United States,Bronze,2022-06-29
+C01590,Germany,Bronze,2022-10-12
+C01591,Canada,Bronze,2022-07-08
+C01592,Spain,Silver,2022-02-28
+C01593,United States,Bronze,2022-05-23
+C01594,United States,Silver,2022-10-21
+C01595,Germany,Silver,2022-04-26
+C01596,United Kingdom,Bronze,2022-08-08
+C01597,United States,Bronze,2022-10-15
+C01598,United States,Silver,2022-11-15
+C01599,United States,Silver,2022-11-11
+C01600,Japan,Silver,2022-12-12
+C01601,United States,Silver,2022-11-26
+C01602,United States,Bronze,2022-10-13
+C01603,United States,Bronze,2022-01-14
+C01604,United States,Silver,2022-11-08
+C01605,United States,Bronze,2022-12-03
+C01606,United Kingdom,Bronze,2022-12-22
+C01607,United States,Bronze,2022-05-17
+C01608,France,Silver,2022-01-15
+C01609,United States,Bronze,2022-04-03
+C01610,United Kingdom,Silver,2022-05-20
+C01611,Japan,Silver,2022-12-26
+C01612,Canada,Gold,2022-06-08
+C01613,United Kingdom,Silver,2022-06-23
+C01614,United States,Gold,2022-06-29
+C01615,United States,Silver,2022-01-04
+C01616,Canada,Silver,2022-04-03
+C01617,Spain,Bronze,2022-03-15
+C01618,Canada,Bronze,2022-10-17
+C01619,United Kingdom,Silver,2022-12-03
+C01620,Germany,Bronze,2022-07-25
+C01621,United Kingdom,Bronze,2022-02-05
+C01622,United States,Bronze,2022-03-14
+C01623,United Kingdom,Gold,2022-11-21
+C01624,Mexico,Bronze,2022-01-16
+C01625,United States,Bronze,2022-02-16
+C01626,Canada,Bronze,2022-09-29
+C01627,United States,Silver,2022-04-21
+C01628,United Kingdom,Bronze,2022-07-12
+C01629,United States,Bronze,2022-08-03
+C01630,United Kingdom,Bronze,2022-08-21
+C01631,Germany,Gold,2022-06-24
+C01632,United States,Silver,2022-03-22
+C01633,Canada,Bronze,2022-07-09
+C01634,France,Bronze,2022-06-09
+C01635,Brazil,Gold,2022-06-16
+C01636,United States,Bronze,2022-10-18
+C01637,United States,Silver,2022-11-02
+C01638,United States,Bronze,2022-02-13
+C01639,Spain,Bronze,2022-01-27
+C01640,Brazil,Bronze,2022-03-21
+C01641,United Kingdom,Bronze,2022-03-22
+C01642,Australia,Silver,2022-11-13
+C01643,United Kingdom,Bronze,2022-01-26
+C01644,Canada,Gold,2022-12-12
+C01645,United States,Bronze,2022-02-11
+C01646,Germany,Bronze,2022-05-20
+C01647,United States,Bronze,2022-08-15
+C01648,France,Silver,2022-12-05
+C01649,France,Bronze,2022-08-06
+C01650,Germany,Silver,2022-09-06
+C01651,United States,Gold,2022-11-07
+C01652,United States,Bronze,2022-08-15
+C01653,United States,Silver,2022-08-01
+C01654,United States,Bronze,2022-05-20
+C01655,United States,Silver,2022-04-21
+C01656,Brazil,Silver,2022-09-20
+C01657,United Kingdom,Bronze,2022-02-28
+C01658,United States,Bronze,2022-06-26
+C01659,United States,Silver,2022-08-09
+C01660,United States,Bronze,2022-02-26
+C01661,Canada,Bronze,2022-05-26
+C01662,United Kingdom,Bronze,2022-12-14
+C01663,Japan,Silver,2022-12-14
+C01664,United Kingdom,Bronze,2022-10-31
+C01665,Spain,Bronze,2022-09-07
+C01666,Australia,Bronze,2022-09-27
+C01667,United States,Gold,2022-12-08
+C01668,Brazil,Bronze,2022-06-07
+C01669,United States,Bronze,2022-01-24
+C01670,France,Bronze,2022-04-23
+C01671,United States,Silver,2022-07-22
+C01672,Australia,Bronze,2022-11-03
+C01673,Australia,Bronze,2022-01-29
+C01674,France,Gold,2022-01-04
+C01675,France,Silver,2022-04-15
+C01676,United States,Bronze,2022-06-04
+C01677,United States,Gold,2022-04-19
+C01678,United States,Bronze,2022-03-12
+C01679,United States,Bronze,2022-05-11
+C01680,Canada,Bronze,2022-05-29
+C01681,United States,Silver,2022-06-17
+C01682,Mexico,Silver,2022-03-03
+C01683,Canada,Bronze,2022-01-04
+C01684,France,Silver,2022-09-12
+C01685,United States,Bronze,2022-08-09
+C01686,Australia,Silver,2022-03-31
+C01687,Brazil,Gold,2022-03-08
+C01688,United Kingdom,Gold,2022-07-14
+C01689,Canada,Bronze,2022-09-30
+C01690,Germany,Bronze,2022-12-27
+C01691,United States,Silver,2022-04-28
+C01692,United Kingdom,Silver,2022-09-14
+C01693,United States,Silver,2022-10-14
+C01694,United States,Bronze,2022-12-09
+C01695,United States,Silver,2022-07-01
+C01696,United States,Bronze,2022-02-06
+C01697,United States,Bronze,2022-07-23
+C01698,United States,Bronze,2022-01-22
+C01699,Mexico,Gold,2022-08-12
+C01700,United Kingdom,Bronze,2022-01-10
+C01701,Mexico,Silver,2022-08-24
+C01702,United States,Gold,2022-02-09
+C01703,United States,Bronze,2022-06-10
+C01704,United Kingdom,Bronze,2022-10-22
+C01705,United States,Silver,2022-08-08
+C01706,United States,Silver,2022-10-21
+C01707,Canada,Bronze,2022-07-27
+C01708,United States,Silver,2022-12-30
+C01709,Canada,Bronze,2022-11-24
+C01710,Canada,Bronze,2022-08-02
+C01711,United States,Silver,2022-05-29
+C01712,United States,Silver,2022-02-28
+C01713,France,Silver,2022-07-27
+C01714,United Kingdom,Bronze,2022-01-11
+C01715,United States,Bronze,2022-06-16
+C01716,Spain,Silver,2022-03-29
+C01717,United States,Bronze,2022-11-13
+C01718,Canada,Bronze,2022-08-24
+C01719,Spain,Silver,2022-12-20
+C01720,United States,Bronze,2022-07-05
+C01721,United States,Silver,2022-02-15
+C01722,United States,Gold,2022-08-12
+C01723,United States,Silver,2022-02-24
+C01724,United States,Silver,2022-05-05
+C01725,Canada,Silver,2022-08-12
+C01726,United States,Gold,2022-10-29
+C01727,United Kingdom,Bronze,2022-07-25
+C01728,Spain,Bronze,2022-09-26
+C01729,France,Bronze,2022-02-10
+C01730,Canada,Silver,2022-07-22
+C01731,United States,Gold,2022-06-08
+C01732,Canada,Gold,2022-06-23
+C01733,United Kingdom,Bronze,2022-04-24
+C01734,United States,Bronze,2022-06-20
+C01735,United States,Silver,2022-03-28
+C01736,Japan,Gold,2022-02-09
+C01737,United States,Bronze,2022-09-19
+C01738,United States,Silver,2022-11-21
+C01739,United States,Silver,2022-02-28
+C01740,United States,Bronze,2022-09-29
+C01741,France,Bronze,2022-09-19
+C01742,Germany,Gold,2022-04-10
+C01743,Germany,Gold,2022-06-28
+C01744,United States,Bronze,2022-06-29
+C01745,United States,Silver,2022-11-27
+C01746,United Kingdom,Gold,2022-03-17
+C01747,United States,Silver,2022-05-01
+C01748,United States,Gold,2022-02-22
+C01749,Germany,Silver,2022-03-16
+C01750,United States,Bronze,2022-05-12
+C01751,United Kingdom,Silver,2022-04-12
+C01752,United States,Silver,2022-03-30
+C01753,United States,Bronze,2022-11-05
+C01754,United States,Bronze,2022-03-20
+C01755,Mexico,Bronze,2022-12-02
+C01756,France,Bronze,2022-02-08
+C01757,Mexico,Gold,2022-04-01
+C01758,United Kingdom,Bronze,2022-11-18
+C01759,United States,Silver,2022-09-10
+C01760,United Kingdom,Bronze,2022-08-26
+C01761,United Kingdom,Silver,2022-10-16
+C01762,Australia,Bronze,2022-10-24
+C01763,United States,Bronze,2022-08-18
+C01764,United Kingdom,Silver,2022-12-15
+C01765,United States,Bronze,2022-10-17
+C01766,United States,Bronze,2022-11-26
+C01767,Germany,Bronze,2022-11-22
+C01768,United Kingdom,Gold,2022-11-16
+C01769,United States,Bronze,2022-06-15
+C01770,United States,Silver,2022-11-18
+C01771,United Kingdom,Gold,2022-06-11
+C01772,France,Silver,2022-03-19
+C01773,Japan,Silver,2022-08-14
+C01774,Mexico,Bronze,2022-02-04
+C01775,France,Silver,2022-08-29
+C01776,United States,Bronze,2022-08-15
+C01777,Canada,Gold,2022-11-20
+C01778,United States,Silver,2022-06-05
+C01779,United States,Silver,2022-05-21
+C01780,Australia,Silver,2022-10-30
+C01781,United States,Gold,2022-01-29
+C01782,Japan,Silver,2022-06-30
+C01783,United Kingdom,Bronze,2022-09-17
+C01784,Canada,Silver,2022-02-07
+C01785,Canada,Silver,2022-06-08
+C01786,Japan,Silver,2022-08-25
+C01787,Canada,Bronze,2022-08-20
+C01788,Canada,Bronze,2022-01-20
+C01789,United States,Silver,2022-01-30
+C01790,United Kingdom,Silver,2022-07-08
+C01791,United States,Gold,2022-05-27
+C01792,Germany,Bronze,2022-02-09
+C01793,United Kingdom,Gold,2022-11-27
+C01794,Canada,Silver,2022-02-16
+C01795,United States,Silver,2022-11-11
+C01796,United States,Silver,2022-11-01
+C01797,Germany,Silver,2022-09-17
+C01798,United States,Bronze,2022-07-16
+C01799,United States,Gold,2022-08-25
+C01800,United States,Bronze,2022-10-25
+C01801,Mexico,Gold,2022-10-11
+C01802,Germany,Gold,2022-01-22
+C01803,United States,Bronze,2022-08-19
+C01804,United States,Silver,2022-10-20
+C01805,United States,Bronze,2022-11-30
+C01806,France,Bronze,2022-04-07
+C01807,Canada,Gold,2022-06-14
+C01808,United States,Bronze,2022-11-06
+C01809,United States,Silver,2022-09-01
+C01810,United States,Bronze,2022-09-14
+C01811,Canada,Silver,2022-03-19
+C01812,Germany,Bronze,2022-02-01
+C01813,United States,Gold,2022-08-19
+C01814,United States,Bronze,2022-02-22
+C01815,United States,Bronze,2022-06-25
+C01816,Mexico,Bronze,2023-01-01
+C01817,United States,Bronze,2022-02-13
+C01818,Germany,Bronze,2022-09-16
+C01819,Canada,Bronze,2022-11-27
+C01820,United States,Silver,2022-03-30
+C01821,United States,Silver,2022-01-21
+C01822,United States,Silver,2022-05-07
+C01823,Canada,Silver,2022-12-29
+C01824,France,Silver,2022-08-13
+C01825,Canada,Bronze,2022-08-13
+C01826,United Kingdom,Silver,2022-09-26
+C01827,United States,Bronze,2022-09-25
+C01828,Mexico,Silver,2022-11-09
+C01829,France,Silver,2022-03-23
+C01830,United States,Bronze,2022-07-06
+C01831,Mexico,Bronze,2022-07-10
+C01832,Canada,Bronze,2022-05-25
+C01833,United Kingdom,Bronze,2022-07-18
+C01834,Germany,Silver,2022-07-29
+C01835,France,Bronze,2022-06-23
+C01836,Canada,Gold,2022-12-14
+C01837,United States,Silver,2022-11-03
+C01838,United States,Silver,2022-01-27
+C01839,Brazil,Gold,2022-11-20
+C01840,United States,Silver,2022-11-28
+C01841,United States,Bronze,2022-06-21
+C01842,United States,Bronze,2022-02-03
+C01843,United States,Silver,2022-06-18
+C01844,Canada,Gold,2022-02-18
+C01845,Brazil,Silver,2022-10-13
+C01846,United States,Silver,2022-12-14
+C01847,United States,Bronze,2022-07-17
+C01848,United States,Gold,2022-05-26
+C01849,Japan,Bronze,2022-05-10
+C01850,Canada,Gold,2022-12-03
+C01851,United States,Bronze,2022-11-05
+C01852,France,Silver,2022-03-18
+C01853,Australia,Bronze,2022-06-20
+C01854,Australia,Silver,2022-02-11
+C01855,Japan,Bronze,2022-10-26
+C01856,United States,Silver,2022-12-06
+C01857,Germany,Gold,2022-03-14
+C01858,United Kingdom,Bronze,2022-06-29
+C01859,Australia,Bronze,2022-06-08
+C01860,Germany,Bronze,2022-12-02
+C01861,France,Bronze,2022-12-24
+C01862,Canada,Bronze,2022-12-06
+C01863,United States,Gold,2022-07-20
+C01864,United Kingdom,Silver,2022-03-08
+C01865,Spain,Silver,2022-11-01
+C01866,Brazil,Bronze,2022-12-29
+C01867,United States,Silver,2022-02-13
+C01868,United States,Gold,2022-06-08
+C01869,United States,Bronze,2022-10-14
+C01870,Germany,Bronze,2022-07-12
+C01871,France,Silver,2022-11-26
+C01872,United States,Gold,2022-06-18
+C01873,United Kingdom,Silver,2022-03-07
+C01874,Australia,Silver,2022-12-10
+C01875,Germany,Silver,2022-12-26
+C01876,United Kingdom,Bronze,2022-12-17
+C01877,United Kingdom,Bronze,2022-09-27
+C01878,United Kingdom,Bronze,2022-02-17
+C01879,United States,Silver,2022-11-27
+C01880,United Kingdom,Bronze,2022-12-10
+C01881,Canada,Silver,2022-08-05
+C01882,Australia,Silver,2022-09-18
+C01883,Canada,Bronze,2022-07-05
+C01884,Germany,Silver,2022-01-10
+C01885,United States,Gold,2022-07-05
+C01886,United Kingdom,Bronze,2022-06-08
+C01887,United States,Silver,2022-04-03
+C01888,United States,Bronze,2022-04-20
+C01889,Germany,Gold,2022-06-24
+C01890,Spain,Bronze,2022-09-06
+C01891,United States,Silver,2022-04-09
+C01892,United States,Gold,2022-04-26
+C01893,France,Bronze,2022-03-12
+C01894,United States,Silver,2022-03-21
+C01895,United Kingdom,Silver,2022-02-09
+C01896,Germany,Gold,2022-06-01
+C01897,Canada,Gold,2022-02-21
+C01898,United States,Silver,2022-09-17
+C01899,United States,Gold,2022-10-04
+C01900,France,Bronze,2022-09-27
+C01901,United Kingdom,Gold,2022-01-20
+C01902,United States,Silver,2022-12-05
+C01903,Germany,Gold,2022-06-22
+C01904,United States,Silver,2022-11-13
+C01905,Germany,Bronze,2022-03-09
+C01906,United States,Silver,2022-11-02
+C01907,Mexico,Bronze,2022-07-12
+C01908,United States,Silver,2022-03-20
+C01909,United States,Bronze,2022-03-25
+C01910,United States,Bronze,2022-04-03
+C01911,United States,Bronze,2022-12-21
+C01912,Australia,Bronze,2022-11-16
+C01913,Spain,Bronze,2022-03-26
+C01914,United States,Silver,2022-08-13
+C01915,United States,Silver,2022-01-23
+C01916,Germany,Bronze,2022-07-30
+C01917,Japan,Silver,2022-07-06
+C01918,United Kingdom,Silver,2022-12-13
+C01919,United States,Bronze,2022-05-02
+C01920,United States,Silver,2022-08-16
+C01921,Canada,Bronze,2022-11-09
+C01922,United States,Bronze,2022-05-26
+C01923,Canada,Bronze,2022-08-18
+C01924,United States,Bronze,2022-04-30
+C01925,France,Gold,2022-10-01
+C01926,United States,Silver,2022-05-03
+C01927,United Kingdom,Silver,2022-06-08
+C01928,United Kingdom,Silver,2022-08-29
+C01929,Canada,Bronze,2022-04-10
+C01930,United States,Bronze,2022-07-08
+C01931,United Kingdom,Silver,2022-12-14
+C01932,United Kingdom,Silver,2022-10-20
+C01933,United Kingdom,Bronze,2022-08-14
+C01934,Canada,Silver,2022-08-25
+C01935,Canada,Silver,2022-05-25
+C01936,France,Silver,2022-07-15
+C01937,United States,Bronze,2022-09-15
+C01938,France,Bronze,2022-09-28
+C01939,United Kingdom,Bronze,2022-08-03
+C01940,United States,Bronze,2022-03-24
+C01941,United States,Silver,2022-04-13
+C01942,United States,Silver,2022-11-06
+C01943,France,Bronze,2022-03-12
+C01944,Germany,Silver,2022-05-09
+C01945,France,Bronze,2022-01-27
+C01946,United Kingdom,Bronze,2022-11-25
+C01947,United States,Bronze,2022-09-04
+C01948,United States,Bronze,2022-07-10
+C01949,United States,Bronze,2022-10-11
+C01950,United States,Bronze,2022-02-22
+C01951,United States,Silver,2022-12-31
+C01952,United States,Gold,2022-09-22
+C01953,United Kingdom,Silver,2022-03-05
+C01954,Germany,Bronze,2022-05-26
+C01955,Spain,Silver,2022-02-12
+C01956,Brazil,Bronze,2022-03-24
+C01957,Canada,Silver,2022-05-20
+C01958,United States,Bronze,2022-08-19
+C01959,Canada,Silver,2022-09-20
+C01960,France,Bronze,2022-03-17
+C01961,United States,Bronze,2022-08-12
+C01962,United States,Silver,2022-02-16
+C01963,Australia,Silver,2022-04-24
+C01964,United States,Bronze,2022-08-19
+C01965,United Kingdom,Silver,2022-06-28
+C01966,United Kingdom,Silver,2022-01-14
+C01967,United States,Bronze,2022-08-01
+C01968,United States,Bronze,2022-01-28
+C01969,United States,Bronze,2022-07-22
+C01970,United States,Silver,2022-09-15
+C01971,United States,Silver,2022-07-11
+C01972,Australia,Bronze,2022-05-01
+C01973,United States,Bronze,2022-07-17
+C01974,United Kingdom,Bronze,2022-02-11
+C01975,United States,Silver,2022-07-11
+C01976,Brazil,Silver,2022-04-25
+C01977,United States,Gold,2022-01-15
+C01978,United States,Silver,2022-06-13
+C01979,Australia,Gold,2022-02-20
+C01980,Australia,Gold,2023-01-01
+C01981,United States,Bronze,2022-11-29
+C01982,France,Silver,2022-06-21
+C01983,United Kingdom,Bronze,2022-03-16
+C01984,United Kingdom,Bronze,2022-03-12
+C01985,United States,Bronze,2022-01-20
+C01986,United States,Silver,2022-05-27
+C01987,Germany,Bronze,2022-08-30
+C01988,United Kingdom,Bronze,2022-12-23
+C01989,United States,Bronze,2022-03-13
+C01990,Germany,Bronze,2022-12-28
+C01991,Germany,Bronze,2022-08-29
+C01992,United States,Bronze,2022-08-18
+C01993,Canada,Silver,2022-11-12
+C01994,United States,Bronze,2022-01-03
+C01995,Germany,Gold,2022-02-10
+C01996,Canada,Bronze,2022-01-10
+C01997,Mexico,Gold,2022-05-12
+C01998,United States,Silver,2022-04-21
+C01999,United States,Bronze,2022-03-18
+C02000,United States,Bronze,2022-10-08
+C02001,United States,Silver,2022-11-08
+C02002,United States,Silver,2022-09-28
+C02003,Japan,Bronze,2022-08-05
+C02004,United States,Silver,2022-02-26
+C02005,United States,Bronze,2022-05-28
+C02006,Germany,Gold,2022-05-02
+C02007,United States,Bronze,2022-06-04
+C02008,France,Bronze,2022-03-04
+C02009,United States,Silver,2022-01-25
+C02010,United Kingdom,Silver,2022-05-03
+C02011,United States,Silver,2022-08-03
+C02012,United States,Bronze,2022-11-24
+C02013,Japan,Bronze,2022-11-15
+C02014,United States,Bronze,2022-08-23
+C02015,United Kingdom,Silver,2022-02-02
+C02016,United States,Silver,2022-02-26
+C02017,United States,Gold,2022-09-13
+C02018,Japan,Silver,2022-11-02
+C02019,United States,Bronze,2022-10-02
+C02020,Canada,Bronze,2022-01-09
+C02021,Mexico,Bronze,2022-11-20
+C02022,United Kingdom,Silver,2022-09-21
+C02023,Brazil,Bronze,2022-10-22
+C02024,United States,Bronze,2022-05-04
+C02025,United States,Bronze,2022-03-15
+C02026,United States,Bronze,2022-05-30
+C02027,Germany,Silver,2022-08-08
+C02028,Spain,Gold,2022-01-01
+C02029,United States,Bronze,2022-11-11
+C02030,Canada,Gold,2022-06-30
+C02031,United States,Silver,2022-05-04
+C02032,United Kingdom,Bronze,2022-10-20
+C02033,United Kingdom,Bronze,2022-08-02
+C02034,Mexico,Bronze,2022-04-06
+C02035,Canada,Silver,2022-12-07
+C02036,United States,Silver,2022-12-09
+C02037,United States,Bronze,2022-02-13
+C02038,United States,Bronze,2022-09-26
+C02039,United States,Bronze,2022-07-04
+C02040,United States,Bronze,2022-02-04
+C02041,Australia,Bronze,2022-09-27
+C02042,United Kingdom,Bronze,2022-10-06
+C02043,United Kingdom,Silver,2022-09-17
+C02044,United States,Bronze,2022-09-17
+C02045,Australia,Bronze,2022-10-11
+C02046,Germany,Bronze,2022-01-11
+C02047,United States,Silver,2022-07-19
+C02048,Germany,Bronze,2022-08-29
+C02049,United Kingdom,Silver,2022-01-23
+C02050,United States,Bronze,2022-11-22
+C02051,United Kingdom,Silver,2022-07-18
+C02052,United Kingdom,Bronze,2022-07-11
+C02053,United States,Silver,2022-05-10
+C02054,Brazil,Gold,2022-01-09
+C02055,Australia,Silver,2022-07-02
+C02056,Canada,Bronze,2022-02-04
+C02057,United Kingdom,Silver,2022-06-26
+C02058,United States,Silver,2022-05-04
+C02059,Canada,Bronze,2022-12-03
+C02060,United Kingdom,Silver,2022-11-18
+C02061,United States,Bronze,2022-02-23
+C02062,United Kingdom,Bronze,2022-10-25
+C02063,France,Bronze,2022-06-20
+C02064,United Kingdom,Silver,2022-03-10
+C02065,United States,Bronze,2022-01-23
+C02066,France,Gold,2022-06-30
+C02067,United States,Silver,2022-10-07
+C02068,United States,Silver,2022-06-23
+C02069,United States,Bronze,2022-11-26
+C02070,United States,Gold,2022-03-31
+C02071,Germany,Bronze,2022-12-17
+C02072,United Kingdom,Bronze,2022-08-26
+C02073,United States,Silver,2022-12-23
+C02074,Australia,Gold,2022-09-03
+C02075,Australia,Bronze,2022-11-20
+C02076,Australia,Bronze,2022-04-04
+C02077,United States,Bronze,2022-03-11
+C02078,United Kingdom,Silver,2022-02-02
+C02079,Spain,Silver,2022-08-23
+C02080,France,Silver,2022-01-19
+C02081,United States,Gold,2022-05-31
+C02082,United States,Gold,2022-04-14
+C02083,United Kingdom,Bronze,2022-01-23
+C02084,Japan,Silver,2022-04-13
+C02085,United Kingdom,Silver,2022-01-22
+C02086,United Kingdom,Bronze,2022-06-11
+C02087,United States,Bronze,2022-06-08
+C02088,Canada,Gold,2022-09-21
+C02089,France,Bronze,2022-07-23
+C02090,United States,Gold,2022-10-06
+C02091,France,Gold,2022-08-31
+C02092,Mexico,Gold,2022-05-10
+C02093,United States,Bronze,2022-01-19
+C02094,United Kingdom,Gold,2022-11-28
+C02095,United States,Gold,2022-04-08
+C02096,France,Silver,2022-05-27
+C02097,United Kingdom,Bronze,2022-07-02
+C02098,Canada,Silver,2022-01-25
+C02099,France,Silver,2022-12-02
+C02100,United States,Gold,2022-06-19
+C02101,Japan,Silver,2022-05-20
+C02102,United Kingdom,Bronze,2022-03-05
+C02103,United States,Bronze,2022-07-08
+C02104,Canada,Silver,2022-08-12
+C02105,France,Silver,2022-07-24
+C02106,United States,Gold,2022-08-14
+C02107,Australia,Silver,2022-07-17
+C02108,Japan,Gold,2022-06-23
+C02109,United States,Bronze,2022-04-06
+C02110,Spain,Bronze,2022-09-12
+C02111,United States,Bronze,2022-12-21
+C02112,United States,Bronze,2022-09-12
+C02113,United States,Bronze,2022-07-08
+C02114,Japan,Bronze,2022-09-23
+C02115,Canada,Silver,2022-05-17
+C02116,United States,Bronze,2022-02-12
+C02117,United States,Silver,2022-08-06
+C02118,Canada,Silver,2022-02-10
+C02119,United States,Bronze,2022-08-09
+C02120,Japan,Silver,2022-11-05
+C02121,France,Silver,2022-04-03
+C02122,United Kingdom,Bronze,2022-10-07
+C02123,Mexico,Gold,2022-05-31
+C02124,United States,Silver,2022-06-14
+C02125,Spain,Bronze,2022-02-22
+C02126,Canada,Bronze,2022-02-10
+C02127,Canada,Bronze,2022-06-17
+C02128,United States,Silver,2022-12-05
+C02129,Japan,Silver,2022-06-01
+C02130,United States,Bronze,2022-06-06
+C02131,United States,Bronze,2022-08-17
+C02132,United States,Bronze,2022-11-05
+C02133,United Kingdom,Gold,2022-08-07
+C02134,United Kingdom,Gold,2022-03-27
+C02135,Germany,Bronze,2022-12-20
+C02136,Japan,Silver,2022-08-16
+C02137,United States,Bronze,2022-06-29
+C02138,Germany,Gold,2022-08-17
+C02139,United States,Bronze,2022-01-22
+C02140,Australia,Bronze,2022-06-30
+C02141,France,Bronze,2022-11-11
+C02142,United Kingdom,Gold,2022-08-11
+C02143,Germany,Bronze,2022-05-21
+C02144,United States,Bronze,2022-11-24
+C02145,United Kingdom,Silver,2022-01-30
+C02146,France,Bronze,2022-02-08
+C02147,United Kingdom,Bronze,2022-12-10
+C02148,United States,Bronze,2022-11-23
+C02149,United Kingdom,Bronze,2022-07-27
+C02150,France,Gold,2022-07-06
+C02151,United States,Silver,2022-09-20
+C02152,United States,Silver,2022-12-14
+C02153,Germany,Bronze,2022-03-23
+C02154,France,Bronze,2022-01-16
+C02155,United States,Bronze,2022-03-15
+C02156,United States,Silver,2022-11-08
+C02157,United States,Silver,2022-12-14
+C02158,United States,Bronze,2022-08-13
+C02159,United Kingdom,Silver,2022-01-18
+C02160,Germany,Silver,2022-03-06
+C02161,Canada,Bronze,2022-02-04
+C02162,Canada,Gold,2022-05-01
+C02163,United States,Silver,2022-11-27
+C02164,Australia,Silver,2022-07-07
+C02165,United Kingdom,Gold,2022-07-05
+C02166,Mexico,Bronze,2022-07-16
+C02167,Canada,Silver,2022-10-18
+C02168,United States,Gold,2022-01-17
+C02169,Canada,Silver,2022-11-06
+C02170,United States,Bronze,2022-03-20
+C02171,Canada,Silver,2022-12-14
+C02172,United States,Bronze,2022-08-19
+C02173,United States,Gold,2022-07-09
+C02174,Australia,Gold,2022-07-10
+C02175,United States,Silver,2022-08-16
+C02176,Australia,Bronze,2022-02-09
+C02177,United States,Bronze,2022-10-21
+C02178,Canada,Gold,2022-03-12
+C02179,Canada,Bronze,2022-09-29
+C02180,United Kingdom,Bronze,2022-07-07
+C02181,United States,Silver,2022-07-23
+C02182,United States,Bronze,2022-06-10
+C02183,United States,Gold,2022-11-29
+C02184,United States,Bronze,2022-05-23
+C02185,Canada,Bronze,2022-05-08
+C02186,Brazil,Bronze,2022-02-28
+C02187,Australia,Bronze,2022-01-14
+C02188,Germany,Silver,2022-04-06
+C02189,France,Bronze,2022-09-13
+C02190,Canada,Silver,2022-09-23
+C02191,United States,Silver,2022-07-18
+C02192,Japan,Bronze,2022-10-15
+C02193,Canada,Bronze,2022-03-02
+C02194,United Kingdom,Bronze,2022-05-15
+C02195,United States,Silver,2022-05-14
+C02196,United States,Bronze,2022-12-27
+C02197,United Kingdom,Bronze,2022-08-17
+C02198,Australia,Gold,2022-04-20
+C02199,United Kingdom,Silver,2022-11-10
+C02200,United States,Silver,2022-05-27
+C02201,Mexico,Silver,2022-12-22
+C02202,United States,Bronze,2022-09-09
+C02203,United States,Bronze,2022-04-13
+C02204,United States,Bronze,2022-03-04
+C02205,Germany,Bronze,2022-03-11
+C02206,Japan,Silver,2022-02-07
+C02207,United States,Bronze,2022-08-20
+C02208,Australia,Silver,2022-03-30
+C02209,United States,Bronze,2023-01-01
+C02210,Japan,Silver,2022-08-16
+C02211,Germany,Bronze,2022-02-14
+C02212,France,Silver,2022-12-16
+C02213,United States,Silver,2022-06-13
+C02214,Mexico,Bronze,2022-12-08
+C02215,Germany,Silver,2022-06-27
+C02216,United States,Bronze,2022-12-30
+C02217,France,Silver,2022-02-03
+C02218,United States,Bronze,2022-10-09
+C02219,Australia,Silver,2022-10-05
+C02220,United States,Gold,2022-05-29
+C02221,Germany,Silver,2022-06-03
+C02222,United Kingdom,Silver,2022-03-22
+C02223,United States,Silver,2022-12-31
+C02224,United States,Silver,2022-12-30
+C02225,United States,Silver,2022-12-25
+C02226,United Kingdom,Gold,2022-11-23
+C02227,United States,Bronze,2022-03-31
+C02228,United Kingdom,Bronze,2022-07-05
+C02229,United States,Silver,2022-09-18
+C02230,United States,Bronze,2022-04-25
+C02231,Germany,Bronze,2022-03-04
+C02232,United States,Silver,2022-04-13
+C02233,Japan,Bronze,2022-03-13
+C02234,Australia,Silver,2022-05-02
+C02235,Canada,Bronze,2022-09-10
+C02236,United Kingdom,Gold,2022-01-14
+C02237,Japan,Bronze,2022-07-04
+C02238,United States,Bronze,2022-10-11
+C02239,United States,Gold,2022-10-21
+C02240,United States,Silver,2022-07-08
+C02241,France,Bronze,2022-08-28
+C02242,United States,Silver,2022-10-10
+C02243,United Kingdom,Bronze,2022-03-08
+C02244,Spain,Bronze,2022-11-10
+C02245,Australia,Bronze,2022-02-14
+C02246,United Kingdom,Bronze,2022-02-03
+C02247,United States,Bronze,2022-06-08
+C02248,Australia,Bronze,2022-07-23
+C02249,United Kingdom,Silver,2022-09-03
+C02250,United States,Silver,2022-09-27
+C02251,United States,Silver,2022-07-30
+C02252,Japan,Bronze,2022-07-29
+C02253,Canada,Bronze,2022-10-22
+C02254,France,Gold,2022-02-07
+C02255,Australia,Bronze,2022-03-06
+C02256,United Kingdom,Silver,2022-06-12
+C02257,United Kingdom,Gold,2022-11-25
+C02258,United States,Bronze,2022-02-07
+C02259,United States,Silver,2022-08-19
+C02260,United States,Bronze,2022-08-27
+C02261,France,Silver,2022-12-15
+C02262,Canada,Bronze,2022-09-22
+C02263,Japan,Bronze,2022-06-26
+C02264,United States,Gold,2022-03-07
+C02265,Canada,Bronze,2022-10-10
+C02266,Canada,Bronze,2022-11-24
+C02267,United Kingdom,Silver,2022-10-28
+C02268,Germany,Silver,2022-04-04
+C02269,United States,Bronze,2022-03-08
+C02270,United Kingdom,Silver,2022-08-10
+C02271,United States,Silver,2022-09-15
+C02272,United States,Gold,2022-01-29
+C02273,United Kingdom,Silver,2022-03-05
+C02274,Canada,Bronze,2022-09-23
+C02275,Mexico,Silver,2022-03-20
+C02276,Canada,Silver,2022-06-05
+C02277,Germany,Silver,2022-03-26
+C02278,United Kingdom,Silver,2022-03-24
+C02279,Canada,Bronze,2022-06-15
+C02280,United States,Silver,2022-12-30
+C02281,United States,Bronze,2022-04-26
+C02282,United States,Silver,2022-06-27
+C02283,United Kingdom,Silver,2022-09-23
+C02284,United States,Bronze,2022-05-26
+C02285,United States,Silver,2022-02-10
+C02286,United States,Bronze,2022-05-09
+C02287,Mexico,Bronze,2022-04-11
+C02288,United States,Gold,2022-11-22
+C02289,United Kingdom,Gold,2022-10-10
+C02290,United States,Bronze,2022-05-21
+C02291,Canada,Silver,2022-03-06
+C02292,United States,Silver,2022-11-17
+C02293,United States,Gold,2022-06-05
+C02294,United Kingdom,Gold,2022-11-11
+C02295,United States,Bronze,2022-10-01
+C02296,United States,Gold,2022-02-17
+C02297,United States,Silver,2022-09-15
+C02298,United States,Bronze,2022-11-25
+C02299,United States,Silver,2022-03-28
+C02300,United States,Gold,2022-10-31
+C02301,France,Bronze,2022-10-25
+C02302,United Kingdom,Gold,2022-03-20
+C02303,United Kingdom,Bronze,2022-03-29
+C02304,United States,Bronze,2022-12-04
+C02305,Brazil,Silver,2022-11-16
+C02306,United States,Bronze,2022-11-06
+C02307,United States,Silver,2022-06-22
+C02308,Canada,Silver,2022-10-16
+C02309,United States,Bronze,2022-01-22
+C02310,United States,Bronze,2022-01-15
+C02311,United Kingdom,Silver,2022-02-11
+C02312,Australia,Bronze,2022-01-24
+C02313,United Kingdom,Bronze,2022-11-25
+C02314,Germany,Bronze,2022-10-23
+C02315,Spain,Bronze,2022-05-16
+C02316,United States,Silver,2022-11-30
+C02317,United States,Silver,2022-04-18
+C02318,United States,Bronze,2022-10-20
+C02319,United States,Gold,2022-08-02
+C02320,United States,Bronze,2022-11-13
+C02321,Japan,Silver,2022-11-24
+C02322,Germany,Silver,2022-01-16
+C02323,Canada,Silver,2022-09-12
+C02324,United States,Bronze,2022-11-18
+C02325,France,Gold,2022-10-07
+C02326,Mexico,Bronze,2022-05-29
+C02327,France,Gold,2022-11-25
+C02328,United States,Silver,2022-06-04
+C02329,Canada,Silver,2022-09-05
+C02330,United States,Bronze,2022-05-06
+C02331,United States,Silver,2022-12-17
+C02332,United States,Silver,2022-07-27
+C02333,Canada,Gold,2022-06-02
+C02334,Canada,Silver,2022-08-21
+C02335,United States,Bronze,2022-02-07
+C02336,United States,Bronze,2022-12-19
+C02337,United Kingdom,Silver,2022-01-31
+C02338,United States,Bronze,2022-03-22
+C02339,United States,Bronze,2022-08-14
+C02340,United States,Gold,2022-08-01
+C02341,Germany,Bronze,2022-09-05
+C02342,United States,Bronze,2022-08-26
+C02343,United States,Gold,2022-04-15
+C02344,United States,Silver,2022-06-24
+C02345,Brazil,Bronze,2022-11-07
+C02346,Canada,Bronze,2022-03-15
+C02347,Canada,Gold,2022-06-10
+C02348,United States,Silver,2022-06-13
+C02349,United Kingdom,Silver,2022-06-26
+C02350,United States,Bronze,2022-07-24
+C02351,Canada,Bronze,2022-03-08
+C02352,Japan,Bronze,2022-07-09
+C02353,Canada,Silver,2022-09-21
+C02354,Australia,Bronze,2022-10-15
+C02355,Germany,Bronze,2022-02-24
+C02356,United States,Silver,2022-06-13
+C02357,Japan,Silver,2022-05-04
+C02358,United States,Bronze,2022-08-27
+C02359,United Kingdom,Bronze,2022-03-04
+C02360,United States,Silver,2022-05-17
+C02361,United States,Bronze,2022-08-19
+C02362,United States,Silver,2022-05-07
+C02363,United States,Bronze,2022-03-14
+C02364,United Kingdom,Bronze,2022-02-19
+C02365,United Kingdom,Bronze,2022-01-26
+C02366,United States,Bronze,2022-05-29
+C02367,United States,Bronze,2022-07-16
+C02368,United Kingdom,Silver,2022-11-12
+C02369,United States,Bronze,2022-08-03
+C02370,Germany,Silver,2022-05-08
+C02371,Canada,Silver,2022-03-23
+C02372,Australia,Silver,2022-06-17
+C02373,Canada,Silver,2022-10-23
+C02374,United States,Bronze,2022-06-10
+C02375,Canada,Silver,2022-04-08
+C02376,United States,Bronze,2022-03-23
+C02377,United States,Bronze,2022-09-13
+C02378,France,Silver,2022-09-21
+C02379,United States,Bronze,2022-08-28
+C02380,France,Silver,2022-09-13
+C02381,France,Silver,2022-06-07
+C02382,Australia,Bronze,2022-09-12
+C02383,Japan,Silver,2022-01-12
+C02384,United States,Gold,2022-02-16
+C02385,United States,Bronze,2022-07-21
+C02386,United Kingdom,Bronze,2022-09-16
+C02387,United States,Silver,2022-08-23
+C02388,Canada,Bronze,2022-05-04
+C02389,Germany,Bronze,2022-04-21
+C02390,Canada,Bronze,2022-10-26
+C02391,United States,Gold,2022-06-30
+C02392,United States,Bronze,2022-01-25
+C02393,United States,Bronze,2022-01-26
+C02394,United States,Bronze,2022-05-25
+C02395,Japan,Bronze,2022-09-11
+C02396,United States,Silver,2022-11-02
+C02397,United States,Gold,2022-12-01
+C02398,United States,Silver,2022-12-11
+C02399,Canada,Silver,2022-08-29
+C02400,Canada,Bronze,2022-05-27
+C02401,United States,Silver,2022-10-02
+C02402,United States,Bronze,2022-01-05
+C02403,United States,Bronze,2022-02-25
+C02404,United States,Silver,2022-08-09
+C02405,Canada,Silver,2022-03-10
+C02406,Canada,Bronze,2022-05-16
+C02407,United States,Bronze,2022-07-07
+C02408,United States,Silver,2022-07-26
+C02409,Spain,Silver,2022-07-07
+C02410,United Kingdom,Bronze,2022-01-24
+C02411,Canada,Bronze,2022-07-25
+C02412,United States,Silver,2022-01-27
+C02413,United Kingdom,Bronze,2022-10-19
+C02414,United States,Gold,2022-10-15
+C02415,United Kingdom,Gold,2022-04-10
+C02416,Mexico,Silver,2022-07-05
+C02417,United States,Silver,2022-10-11
+C02418,United States,Silver,2022-05-28
+C02419,United States,Silver,2022-02-07
+C02420,United States,Silver,2022-07-17
+C02421,United States,Silver,2022-09-16
+C02422,United States,Silver,2022-08-19
+C02423,Germany,Bronze,2022-10-09
+C02424,United Kingdom,Silver,2022-05-24
+C02425,United States,Silver,2022-11-16
+C02426,Japan,Bronze,2022-12-15
+C02427,United States,Bronze,2022-11-09
+C02428,Mexico,Silver,2022-03-02
+C02429,United States,Bronze,2022-03-07
+C02430,Japan,Bronze,2022-02-19
+C02431,Canada,Bronze,2022-07-21
+C02432,France,Gold,2022-07-11
+C02433,Spain,Bronze,2022-06-23
+C02434,United States,Gold,2022-10-13
+C02435,Mexico,Bronze,2022-07-07
+C02436,United States,Bronze,2022-03-15
+C02437,United States,Silver,2022-04-12
+C02438,United States,Bronze,2022-11-05
+C02439,United Kingdom,Gold,2022-09-18
+C02440,United States,Bronze,2022-07-25
+C02441,United Kingdom,Silver,2022-09-14
+C02442,United Kingdom,Silver,2022-01-21
+C02443,Germany,Gold,2022-01-24
+C02444,Australia,Bronze,2022-01-20
+C02445,United States,Gold,2022-03-12
+C02446,United States,Silver,2023-01-01
+C02447,United States,Silver,2022-06-20
+C02448,United States,Bronze,2022-08-31
+C02449,United States,Bronze,2022-09-23
+C02450,United States,Gold,2022-08-22
+C02451,United States,Silver,2022-03-18
+C02452,Mexico,Silver,2022-11-07
+C02453,United Kingdom,Silver,2022-09-21
+C02454,United States,Silver,2022-03-13
+C02455,United Kingdom,Bronze,2022-06-17
+C02456,United States,Silver,2022-11-10
+C02457,United States,Silver,2022-06-13
+C02458,Canada,Silver,2022-03-25
+C02459,United Kingdom,Bronze,2022-07-21
+C02460,United States,Bronze,2022-11-12
+C02461,Spain,Bronze,2022-06-03
+C02462,Japan,Silver,2022-10-31
+C02463,Canada,Gold,2022-06-22
+C02464,United Kingdom,Silver,2022-09-17
+C02465,Canada,Silver,2022-09-18
+C02466,United States,Bronze,2022-09-30
+C02467,United States,Bronze,2022-09-08
+C02468,United States,Bronze,2022-12-29
+C02469,United Kingdom,Bronze,2022-10-16
+C02470,United Kingdom,Silver,2022-06-03
+C02471,United States,Bronze,2022-09-01
+C02472,Mexico,Silver,2022-01-09
+C02473,Japan,Gold,2022-07-08
+C02474,Germany,Bronze,2022-06-19
+C02475,United Kingdom,Gold,2022-12-11
+C02476,Australia,Silver,2022-02-26
+C02477,United States,Silver,2022-08-02
+C02478,France,Bronze,2022-10-26
+C02479,United States,Bronze,2022-06-07
+C02480,France,Silver,2022-12-19
+C02481,United States,Bronze,2022-11-19
+C02482,Australia,Silver,2022-01-14
+C02483,Brazil,Silver,2022-11-02
+C02484,United States,Bronze,2022-08-31
+C02485,United Kingdom,Bronze,2022-05-16
+C02486,Spain,Bronze,2022-12-02
+C02487,United Kingdom,Silver,2022-10-24
+C02488,Australia,Bronze,2022-10-23
+C02489,United Kingdom,Bronze,2022-04-27
+C02490,United States,Bronze,2022-01-27
+C02491,United States,Silver,2022-10-26
+C02492,United States,Bronze,2022-09-03
+C02493,Germany,Bronze,2022-03-29
+C02494,United States,Silver,2022-09-26
+C02495,United Kingdom,Silver,2022-11-19
+C02496,United Kingdom,Silver,2022-11-14
+C02497,United Kingdom,Bronze,2022-07-14
+C02498,Australia,Bronze,2022-03-17
+C02499,Spain,Bronze,2022-12-15
+C02500,United States,Bronze,2022-05-05
+C02501,France,Bronze,2022-01-17
+C02502,Germany,Gold,2022-10-21
+C02503,United Kingdom,Silver,2022-12-25
+C02504,Mexico,Silver,2022-02-26
+C02505,United States,Silver,2022-04-08
+C02506,United States,Silver,2022-01-10
+C02507,Australia,Bronze,2022-08-14
+C02508,United States,Silver,2022-06-10
+C02509,Australia,Silver,2022-08-03
+C02510,Japan,Silver,2022-03-19
+C02511,United States,Gold,2022-07-31
+C02512,Japan,Bronze,2022-12-20
+C02513,United States,Bronze,2022-04-15
+C02514,United Kingdom,Bronze,2022-07-30
+C02515,Canada,Gold,2022-09-14
+C02516,Brazil,Bronze,2022-11-10
+C02517,United States,Bronze,2022-08-30
+C02518,United Kingdom,Bronze,2022-02-01
+C02519,Canada,Gold,2022-12-28
+C02520,Germany,Bronze,2022-03-12
+C02521,Canada,Bronze,2022-09-23
+C02522,United States,Bronze,2022-04-17
+C02523,United States,Bronze,2022-10-15
+C02524,United States,Silver,2022-06-16
+C02525,France,Bronze,2022-12-06
+C02526,United States,Gold,2022-09-02
+C02527,United States,Bronze,2022-09-27
+C02528,Mexico,Gold,2022-07-12
+C02529,United States,Silver,2022-06-10
+C02530,Spain,Silver,2022-03-30
+C02531,Canada,Bronze,2022-08-24
+C02532,France,Gold,2022-09-30
+C02533,United States,Bronze,2022-06-25
+C02534,United States,Bronze,2022-10-07
+C02535,Germany,Silver,2022-07-01
+C02536,Australia,Gold,2022-12-13
+C02537,Germany,Gold,2022-12-15
+C02538,United States,Bronze,2022-11-26
+C02539,Germany,Bronze,2022-12-21
+C02540,Germany,Silver,2022-05-16
+C02541,Canada,Gold,2022-11-09
+C02542,Germany,Bronze,2022-09-05
+C02543,Australia,Bronze,2022-04-09
+C02544,Canada,Bronze,2022-05-07
+C02545,United States,Bronze,2022-05-23
+C02546,United Kingdom,Gold,2022-10-13
+C02547,United States,Gold,2022-06-02
+C02548,United States,Gold,2022-04-26
+C02549,United States,Silver,2022-06-02
+C02550,United States,Gold,2022-05-28
+C02551,United States,Silver,2022-12-27
+C02552,United States,Silver,2022-04-17
+C02553,France,Bronze,2022-12-20
+C02554,Brazil,Bronze,2022-12-27
+C02555,United States,Bronze,2022-09-08
+C02556,Mexico,Bronze,2022-06-12
+C02557,United Kingdom,Gold,2022-09-03
+C02558,United States,Bronze,2022-06-28
+C02559,United States,Silver,2022-10-14
+C02560,United Kingdom,Bronze,2022-05-21
+C02561,France,Silver,2022-05-28
+C02562,Germany,Bronze,2022-03-04
+C02563,United States,Silver,2022-10-21
+C02564,United States,Silver,2022-12-13
+C02565,United States,Bronze,2022-10-06
+C02566,United States,Gold,2022-07-14
+C02567,United States,Bronze,2022-07-22
+C02568,United States,Bronze,2022-06-26
+C02569,France,Bronze,2022-03-16
+C02570,Brazil,Bronze,2022-05-29
+C02571,United States,Bronze,2022-01-22
+C02572,Japan,Gold,2022-05-28
+C02573,United States,Bronze,2023-01-01
+C02574,United Kingdom,Bronze,2022-02-10
+C02575,United States,Bronze,2022-06-27
+C02576,Canada,Gold,2022-08-15
+C02577,Mexico,Bronze,2022-12-02
+C02578,Canada,Bronze,2022-05-12
+C02579,United States,Bronze,2022-09-03
+C02580,Canada,Silver,2022-04-20
+C02581,United States,Gold,2022-04-14
+C02582,Japan,Silver,2022-10-03
+C02583,United Kingdom,Bronze,2022-05-19
+C02584,United States,Bronze,2022-10-15
+C02585,United Kingdom,Silver,2022-12-23
+C02586,Canada,Gold,2022-05-20
+C02587,United States,Silver,2022-03-12
+C02588,Canada,Silver,2022-02-25
+C02589,United States,Bronze,2022-11-12
+C02590,Germany,Bronze,2022-10-28
+C02591,France,Silver,2022-05-03
+C02592,France,Bronze,2022-05-05
+C02593,United Kingdom,Gold,2022-01-26
+C02594,United Kingdom,Bronze,2022-12-09
+C02595,United States,Silver,2022-09-29
+C02596,France,Silver,2022-04-26
+C02597,United States,Silver,2022-11-23
+C02598,United Kingdom,Bronze,2022-04-30
+C02599,United States,Bronze,2022-01-27
+C02600,United States,Bronze,2022-02-21
+C02601,Canada,Silver,2022-07-31
+C02602,United States,Silver,2022-06-19
+C02603,Germany,Gold,2022-08-30
+C02604,United States,Bronze,2022-02-21
+C02605,United States,Gold,2022-12-15
+C02606,United Kingdom,Bronze,2022-03-12
+C02607,United States,Bronze,2022-01-03
+C02608,United States,Bronze,2022-10-09
+C02609,Germany,Silver,2022-03-22
+C02610,United States,Silver,2022-07-28
+C02611,Australia,Gold,2022-12-01
+C02612,United States,Bronze,2022-09-01
+C02613,United States,Bronze,2022-09-02
+C02614,Germany,Silver,2022-11-30
+C02615,United States,Silver,2022-04-13
+C02616,United States,Bronze,2022-05-28
+C02617,United States,Bronze,2022-06-14
+C02618,United States,Silver,2022-05-27
+C02619,Australia,Bronze,2022-11-27
+C02620,United States,Silver,2022-01-31
+C02621,France,Gold,2022-02-15
+C02622,Japan,Bronze,2022-11-30
+C02623,United States,Bronze,2022-10-21
+C02624,Japan,Bronze,2022-04-29
+C02625,United States,Gold,2022-10-01
+C02626,Mexico,Bronze,2022-01-20
+C02627,United States,Silver,2022-03-31
+C02628,Canada,Silver,2022-08-02
+C02629,United Kingdom,Bronze,2022-04-01
+C02630,United States,Gold,2022-01-19
+C02631,Canada,Bronze,2022-07-23
+C02632,Germany,Bronze,2022-09-11
+C02633,United States,Silver,2022-04-06
+C02634,United States,Silver,2022-05-29
+C02635,Germany,Silver,2022-01-20
+C02636,Canada,Gold,2022-01-05
+C02637,Mexico,Bronze,2022-06-02
+C02638,Germany,Bronze,2022-10-18
+C02639,Mexico,Gold,2022-11-05
+C02640,Germany,Gold,2022-02-24
+C02641,United States,Bronze,2022-06-21
+C02642,United States,Bronze,2022-05-26
+C02643,France,Silver,2022-08-21
+C02644,Canada,Silver,2022-11-25
+C02645,United States,Bronze,2022-10-06
+C02646,United States,Silver,2022-09-26
+C02647,Mexico,Gold,2022-09-10
+C02648,United Kingdom,Bronze,2022-03-10
+C02649,United States,Bronze,2022-09-16
+C02650,United Kingdom,Bronze,2022-08-28
+C02651,United States,Bronze,2022-05-20
+C02652,United States,Bronze,2022-04-09
+C02653,United States,Silver,2022-02-27
+C02654,United States,Silver,2022-06-19
+C02655,Germany,Gold,2022-03-25
+C02656,United States,Gold,2022-08-23
+C02657,France,Bronze,2022-11-28
+C02658,Australia,Bronze,2022-05-12
+C02659,United States,Bronze,2022-04-06
+C02660,Canada,Bronze,2022-01-08
+C02661,United Kingdom,Silver,2022-06-22
+C02662,Japan,Gold,2022-06-01
+C02663,United States,Bronze,2022-10-18
+C02664,Canada,Bronze,2022-12-12
+C02665,Canada,Bronze,2022-04-09
+C02666,United States,Bronze,2022-03-31
+C02667,United States,Bronze,2022-11-09
+C02668,Canada,Bronze,2022-11-24
+C02669,Germany,Gold,2022-07-27
+C02670,United States,Bronze,2022-08-07
+C02671,Canada,Bronze,2022-09-21
+C02672,United States,Silver,2022-06-17
+C02673,Germany,Bronze,2022-02-14
+C02674,United States,Silver,2022-07-25
+C02675,Japan,Bronze,2022-12-09
+C02676,United States,Gold,2022-02-18
+C02677,United States,Bronze,2022-04-05
+C02678,United States,Silver,2022-03-13
+C02679,United States,Bronze,2022-09-02
+C02680,United Kingdom,Silver,2022-06-15
+C02681,United States,Silver,2022-05-08
+C02682,Australia,Silver,2022-01-04
+C02683,United States,Bronze,2022-05-14
+C02684,United States,Silver,2022-07-16
+C02685,United States,Gold,2022-05-01
+C02686,United States,Bronze,2022-08-17
+C02687,United States,Bronze,2022-05-17
+C02688,United States,Bronze,2022-06-18
+C02689,United Kingdom,Gold,2022-06-04
+C02690,United States,Bronze,2022-10-26
+C02691,United Kingdom,Silver,2022-10-21
+C02692,United Kingdom,Silver,2022-01-06
+C02693,United States,Bronze,2022-05-14
+C02694,United Kingdom,Bronze,2022-12-01
+C02695,Mexico,Bronze,2022-07-04
+C02696,United Kingdom,Silver,2022-12-21
+C02697,Canada,Silver,2022-05-01
+C02698,United States,Silver,2022-02-01
+C02699,France,Bronze,2022-12-08
+C02700,France,Silver,2022-03-02
+C02701,United Kingdom,Silver,2022-08-27
+C02702,Mexico,Silver,2022-06-07
+C02703,United States,Bronze,2022-03-23
+C02704,United States,Silver,2022-07-27
+C02705,France,Bronze,2022-12-18
+C02706,France,Silver,2022-09-15
+C02707,United States,Bronze,2022-12-27
+C02708,United States,Gold,2022-06-09
+C02709,United States,Bronze,2022-12-20
+C02710,United States,Bronze,2022-03-02
+C02711,France,Silver,2022-11-24
+C02712,United Kingdom,Bronze,2022-06-01
+C02713,United States,Silver,2022-07-08
+C02714,United States,Bronze,2022-11-11
+C02715,United States,Bronze,2022-04-24
+C02716,United States,Silver,2022-04-23
+C02717,Canada,Silver,2022-03-10
+C02718,Mexico,Silver,2022-09-02
+C02719,Australia,Gold,2022-03-20
+C02720,United States,Gold,2022-08-21
+C02721,Japan,Gold,2022-11-07
+C02722,France,Silver,2022-07-11
+C02723,France,Bronze,2022-08-01
+C02724,United Kingdom,Gold,2022-12-26
+C02725,United States,Gold,2022-10-09
+C02726,United States,Bronze,2022-08-30
+C02727,United States,Silver,2022-10-03
+C02728,United States,Gold,2022-12-07
+C02729,United States,Silver,2022-04-22
+C02730,United Kingdom,Bronze,2022-05-07
+C02731,Germany,Bronze,2022-12-15
+C02732,United Kingdom,Silver,2022-11-02
+C02733,United States,Bronze,2022-02-11
+C02734,Mexico,Bronze,2022-09-27
+C02735,Brazil,Bronze,2022-08-17
+C02736,France,Bronze,2022-09-28
+C02737,Spain,Bronze,2022-12-27
+C02738,United Kingdom,Silver,2022-07-05
+C02739,Mexico,Gold,2022-02-09
+C02740,United States,Silver,2022-10-16
+C02741,United States,Bronze,2022-02-27
+C02742,United States,Bronze,2022-02-01
+C02743,United States,Bronze,2022-10-08
+C02744,United States,Bronze,2022-09-16
+C02745,Canada,Silver,2022-04-14
+C02746,France,Bronze,2022-10-21
+C02747,United Kingdom,Bronze,2022-10-02
+C02748,United States,Bronze,2022-03-18
+C02749,France,Bronze,2022-03-26
+C02750,Canada,Bronze,2022-06-17
+C02751,United States,Silver,2022-09-24
+C02752,Canada,Bronze,2022-08-15
+C02753,United States,Gold,2022-03-01
+C02754,United States,Bronze,2022-12-15
+C02755,Japan,Bronze,2022-04-16
+C02756,United States,Silver,2022-10-26
+C02757,United Kingdom,Bronze,2022-09-08
+C02758,Japan,Silver,2022-02-16
+C02759,Germany,Silver,2022-09-19
+C02760,United States,Silver,2022-08-17
+C02761,United States,Bronze,2022-01-29
+C02762,United States,Bronze,2022-08-21
+C02763,Canada,Bronze,2022-03-09
+C02764,United States,Silver,2022-09-20
+C02765,United States,Bronze,2022-08-01
+C02766,Mexico,Bronze,2022-08-22
+C02767,United Kingdom,Silver,2022-10-16
+C02768,United States,Gold,2022-01-30
+C02769,United Kingdom,Silver,2022-10-14
+C02770,Canada,Bronze,2022-08-25
+C02771,United States,Bronze,2022-12-11
+C02772,United States,Bronze,2022-06-07
+C02773,France,Silver,2022-01-12
+C02774,United Kingdom,Bronze,2022-07-22
+C02775,United Kingdom,Gold,2022-05-11
+C02776,United States,Silver,2022-01-02
+C02777,United States,Bronze,2022-04-22
+C02778,United States,Gold,2022-10-24
+C02779,United States,Bronze,2022-02-07
+C02780,United States,Silver,2022-01-24
+C02781,United States,Bronze,2022-08-05
+C02782,Australia,Silver,2022-06-26
+C02783,Spain,Bronze,2022-12-25
+C02784,France,Gold,2022-02-02
+C02785,Australia,Gold,2022-10-05
+C02786,United States,Bronze,2022-01-31
+C02787,Mexico,Silver,2022-02-05
+C02788,United States,Bronze,2022-08-30
+C02789,Mexico,Bronze,2022-01-17
+C02790,Spain,Silver,2022-05-27
+C02791,Germany,Silver,2022-07-29
+C02792,Spain,Bronze,2022-04-03
+C02793,United Kingdom,Bronze,2022-03-11
+C02794,United States,Bronze,2022-11-25
+C02795,United States,Bronze,2022-11-27
+C02796,United Kingdom,Bronze,2022-08-04
+C02797,United States,Gold,2022-07-11
+C02798,Canada,Bronze,2022-07-15
+C02799,Spain,Bronze,2022-08-18
+C02800,United States,Silver,2022-07-13
+C02801,France,Silver,2022-07-12
+C02802,Japan,Gold,2022-02-11
+C02803,Brazil,Silver,2022-12-16
+C02804,Mexico,Bronze,2022-12-05
+C02805,United Kingdom,Silver,2022-10-04
+C02806,Mexico,Gold,2022-03-10
+C02807,Germany,Silver,2022-12-01
+C02808,United States,Bronze,2022-06-28
+C02809,United Kingdom,Bronze,2022-03-02
+C02810,Germany,Silver,2022-04-02
+C02811,United States,Silver,2022-10-03
+C02812,Canada,Bronze,2022-07-21
+C02813,Canada,Bronze,2022-09-28
+C02814,United States,Silver,2022-03-07
+C02815,United Kingdom,Gold,2022-04-25
+C02816,France,Gold,2022-01-02
+C02817,United Kingdom,Gold,2022-01-12
+C02818,United States,Bronze,2022-06-02
+C02819,United States,Bronze,2022-08-26
+C02820,United States,Silver,2022-12-11
+C02821,Brazil,Bronze,2022-10-06
+C02822,United States,Silver,2022-08-06
+C02823,Canada,Bronze,2022-09-30
+C02824,United States,Bronze,2022-07-14
+C02825,United States,Silver,2022-04-28
+C02826,Australia,Silver,2022-05-07
+C02827,Germany,Bronze,2022-08-24
+C02828,United States,Gold,2022-06-27
+C02829,United States,Silver,2022-03-21
+C02830,United States,Bronze,2022-05-22
+C02831,United Kingdom,Bronze,2022-04-07
+C02832,Canada,Silver,2022-02-27
+C02833,United States,Bronze,2022-01-17
+C02834,United States,Silver,2022-12-05
+C02835,United States,Bronze,2022-08-03
+C02836,Japan,Bronze,2022-11-11
+C02837,Spain,Bronze,2022-01-09
+C02838,United States,Silver,2022-05-04
+C02839,Germany,Bronze,2022-04-16
+C02840,United States,Bronze,2022-02-04
+C02841,United States,Silver,2022-02-21
+C02842,Germany,Gold,2022-11-01
+C02843,Japan,Gold,2022-01-18
+C02844,Mexico,Gold,2022-08-17
+C02845,United Kingdom,Bronze,2022-11-03
+C02846,United States,Silver,2022-12-11
+C02847,France,Silver,2022-12-27
+C02848,United States,Bronze,2022-01-25
+C02849,United Kingdom,Silver,2022-05-06
+C02850,United States,Bronze,2022-01-23
+C02851,Canada,Silver,2022-07-25
+C02852,United States,Bronze,2022-08-13
+C02853,United States,Bronze,2022-04-30
+C02854,Japan,Bronze,2022-10-04
+C02855,United States,Silver,2022-04-22
+C02856,United Kingdom,Bronze,2022-01-29
+C02857,United States,Gold,2022-03-13
+C02858,United States,Gold,2022-09-15
+C02859,United States,Gold,2022-05-29
+C02860,United States,Bronze,2022-04-30
+C02861,Australia,Silver,2022-10-22
+C02862,United States,Bronze,2022-06-13
+C02863,Mexico,Gold,2022-10-23
+C02864,United Kingdom,Silver,2022-11-03
+C02865,United States,Bronze,2022-12-11
+C02866,United Kingdom,Silver,2022-06-14
+C02867,United Kingdom,Bronze,2022-05-02
+C02868,Germany,Silver,2022-06-04
+C02869,United States,Bronze,2022-03-15
+C02870,United States,Bronze,2022-12-05
+C02871,Japan,Silver,2022-09-24
+C02872,Brazil,Silver,2022-04-24
+C02873,Japan,Bronze,2022-07-31
+C02874,United States,Bronze,2022-06-03
+C02875,France,Silver,2022-05-21
+C02876,United Kingdom,Silver,2022-02-01
+C02877,United Kingdom,Bronze,2022-10-13
+C02878,United States,Bronze,2022-10-30
+C02879,United Kingdom,Silver,2022-03-31
+C02880,United States,Silver,2022-11-17
+C02881,United States,Silver,2022-12-14
+C02882,Australia,Bronze,2022-08-07
+C02883,United States,Silver,2022-10-12
+C02884,United States,Bronze,2022-09-11
+C02885,United States,Silver,2022-01-25
+C02886,Brazil,Silver,2022-06-26
+C02887,United Kingdom,Bronze,2022-11-26
+C02888,United States,Bronze,2022-12-10
+C02889,France,Bronze,2022-07-15
+C02890,Australia,Silver,2022-09-26
+C02891,United States,Bronze,2022-06-13
+C02892,Canada,Bronze,2022-12-23
+C02893,France,Silver,2022-08-02
+C02894,Canada,Silver,2022-07-29
+C02895,United States,Silver,2022-03-18
+C02896,Australia,Silver,2022-06-03
+C02897,United Kingdom,Bronze,2022-07-12
+C02898,United States,Silver,2022-04-05
+C02899,United States,Bronze,2022-10-03
+C02900,United States,Bronze,2022-08-31
+C02901,United States,Bronze,2022-05-04
+C02902,Germany,Bronze,2022-04-26
+C02903,United States,Gold,2022-06-03
+C02904,United States,Silver,2022-12-29
+C02905,United Kingdom,Gold,2022-03-15
+C02906,United States,Bronze,2022-08-26
+C02907,Mexico,Silver,2022-01-30
+C02908,United States,Bronze,2022-10-15
+C02909,United States,Silver,2022-07-31
+C02910,United States,Silver,2022-08-02
+C02911,United States,Silver,2022-10-13
+C02912,United States,Bronze,2022-09-29
+C02913,Germany,Bronze,2022-03-10
+C02914,Mexico,Silver,2022-07-18
+C02915,United States,Bronze,2022-05-05
+C02916,Canada,Gold,2022-05-11
+C02917,Germany,Bronze,2022-04-15
+C02918,Australia,Bronze,2022-06-19
+C02919,United States,Silver,2022-11-28
+C02920,United States,Bronze,2022-02-10
+C02921,United States,Gold,2022-08-19
+C02922,Germany,Bronze,2022-07-09
+C02923,France,Silver,2022-02-17
+C02924,United States,Bronze,2022-10-02
+C02925,United States,Silver,2022-04-08
+C02926,Japan,Bronze,2022-01-27
+C02927,France,Bronze,2022-05-18
+C02928,Spain,Bronze,2022-07-13
+C02929,Germany,Bronze,2022-12-11
+C02930,United States,Bronze,2022-11-06
+C02931,United Kingdom,Gold,2022-11-05
+C02932,Canada,Silver,2022-01-21
+C02933,United States,Silver,2022-02-07
+C02934,United Kingdom,Bronze,2022-04-07
+C02935,Germany,Silver,2022-10-28
+C02936,United States,Bronze,2022-12-10
+C02937,France,Bronze,2022-10-14
+C02938,United Kingdom,Silver,2022-04-22
+C02939,Mexico,Silver,2022-09-03
+C02940,United States,Silver,2022-04-17
+C02941,United States,Silver,2022-06-20
+C02942,Canada,Silver,2022-06-05
+C02943,United States,Gold,2022-01-08
+C02944,Germany,Bronze,2022-04-19
+C02945,Germany,Bronze,2022-04-08
+C02946,United States,Silver,2022-03-02
+C02947,United Kingdom,Silver,2022-09-03
+C02948,United Kingdom,Gold,2022-05-05
+C02949,United States,Bronze,2022-12-23
+C02950,Brazil,Bronze,2022-11-06
+C02951,France,Gold,2022-12-27
+C02952,Canada,Silver,2022-04-15
+C02953,Germany,Bronze,2022-07-23
+C02954,United Kingdom,Bronze,2022-05-03
+C02955,Brazil,Gold,2022-10-10
+C02956,Canada,Bronze,2022-06-14
+C02957,Germany,Silver,2022-05-25
+C02958,Australia,Silver,2022-07-14
+C02959,United States,Bronze,2022-08-27
+C02960,France,Bronze,2022-10-01
+C02961,United States,Silver,2022-11-29
+C02962,United States,Bronze,2022-07-03
+C02963,United States,Silver,2022-06-07
+C02964,Mexico,Bronze,2022-05-14
+C02965,Australia,Silver,2022-07-04
+C02966,Germany,Bronze,2022-09-20
+C02967,Germany,Bronze,2022-09-12
+C02968,United Kingdom,Gold,2022-08-27
+C02969,Brazil,Bronze,2022-02-20
+C02970,United Kingdom,Bronze,2022-08-29
+C02971,United States,Bronze,2022-06-13
+C02972,United States,Silver,2022-04-15
+C02973,France,Bronze,2022-07-09
+C02974,Germany,Bronze,2022-06-10
+C02975,United States,Silver,2022-07-31
+C02976,United States,Bronze,2022-01-24
+C02977,Australia,Gold,2022-10-16
+C02978,United States,Gold,2022-04-24
+C02979,Germany,Bronze,2022-03-16
+C02980,Mexico,Bronze,2022-01-09
+C02981,United States,Bronze,2022-05-14
+C02982,United States,Gold,2022-10-11
+C02983,Germany,Bronze,2022-10-27
+C02984,France,Gold,2022-10-24
+C02985,United Kingdom,Gold,2022-08-02
+C02986,Mexico,Gold,2022-06-01
+C02987,United States,Bronze,2022-03-20
+C02988,United Kingdom,Bronze,2022-04-11
+C02989,Germany,Bronze,2022-06-18
+C02990,Australia,Bronze,2022-04-28
+C02991,United States,Gold,2022-07-14
+C02992,France,Bronze,2022-10-19
+C02993,United Kingdom,Silver,2022-05-06
+C02994,United States,Silver,2022-09-13
+C02995,United States,Gold,2022-10-09
+C02996,Australia,Bronze,2022-12-02
+C02997,United States,Bronze,2022-12-17
+C02998,United States,Bronze,2022-06-22
+C02999,United States,Silver,2022-05-12
+C03000,Australia,Gold,2022-09-08
